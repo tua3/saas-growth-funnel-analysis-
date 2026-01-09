@@ -1,0 +1,3001 @@
+user_id,signup_date,acquisition_channel,device
+1,2024-02-12,Organic,Desktop
+2,2024-09-27,Organic,Mobile
+3,2024-04-28,Facebook Ads,Desktop
+4,2024-03-23,Organic,Desktop
+5,2024-01-16,Organic,Mobile
+6,2024-01-16,Organic,Desktop
+7,2024-01-06,Referral,Mobile
+8,2024-06-30,Facebook Ads,Mobile
+9,2024-03-23,Organic,Desktop
+10,2024-04-20,Facebook Ads,Mobile
+11,2024-01-02,Google Ads,Desktop
+12,2024-11-11,Facebook Ads,Desktop
+13,2024-06-09,Google Ads,Desktop
+14,2024-01-22,Google Ads,Mobile
+15,2024-01-19,Organic,Mobile
+16,2024-01-19,Google Ads,Desktop
+17,2024-02-02,Organic,Mobile
+18,2024-03-07,Google Ads,Mobile
+19,2024-02-20,Facebook Ads,Mobile
+20,2024-01-31,Organic,Mobile
+21,2024-03-26,Facebook Ads,Mobile
+22,2024-01-14,Google Ads,Desktop
+23,2024-02-01,Organic,Desktop
+24,2024-02-11,Google Ads,Mobile
+25,2024-02-24,Facebook Ads,Mobile
+26,2024-05-18,Google Ads,Mobile
+27,2024-01-21,Referral,Desktop
+28,2024-03-05,Organic,Mobile
+29,2024-03-21,Organic,Desktop
+30,2024-01-05,Organic,Mobile
+31,2024-03-25,Facebook Ads,Desktop
+32,2024-01-17,Google Ads,Mobile
+33,2024-01-07,Organic,Desktop
+34,2024-09-24,Facebook Ads,Mobile
+35,2024-10-30,Facebook Ads,Desktop
+36,2024-05-28,Facebook Ads,Mobile
+37,2024-02-02,Google Ads,Desktop
+38,2024-01-10,Referral,Desktop
+39,2024-04-13,Facebook Ads,Mobile
+40,2024-02-22,Google Ads,Desktop
+41,2024-01-12,Facebook Ads,Desktop
+42,2024-03-02,Referral,Mobile
+43,2024-01-04,Facebook Ads,Mobile
+44,2024-08-04,Google Ads,Mobile
+45,2024-01-27,Organic,Desktop
+46,2024-04-07,Organic,Desktop
+47,2024-02-03,Google Ads,Mobile
+48,2024-03-07,Google Ads,Mobile
+49,2024-03-12,Google Ads,Desktop
+50,2024-01-19,Facebook Ads,Desktop
+51,2024-11-10,Facebook Ads,Mobile
+52,2024-05-14,Google Ads,Desktop
+53,2024-09-09,Facebook Ads,Mobile
+54,2024-07-21,Facebook Ads,Mobile
+55,2024-03-22,Organic,Desktop
+56,2024-08-17,Referral,Mobile
+57,2024-01-09,Organic,Mobile
+58,2024-01-20,Facebook Ads,Mobile
+59,2024-01-05,Facebook Ads,Desktop
+60,2024-02-05,Referral,Desktop
+61,2024-02-14,Facebook Ads,Mobile
+62,2024-01-29,Facebook Ads,Mobile
+63,2024-06-07,Organic,Mobile
+64,2024-02-09,Organic,Desktop
+65,2024-01-30,Organic,Mobile
+66,2024-03-11,Facebook Ads,Desktop
+67,2024-01-14,Facebook Ads,Mobile
+68,2024-05-25,Referral,Mobile
+69,2024-01-07,Facebook Ads,Mobile
+70,2025-01-25,Organic,Mobile
+71,2024-05-13,Organic,Desktop
+72,2024-01-20,Organic,Mobile
+73,2024-01-01,Google Ads,Mobile
+74,2024-06-01,Facebook Ads,Mobile
+75,2024-04-20,Organic,Mobile
+76,2024-04-27,Referral,Mobile
+77,2024-05-12,Referral,Mobile
+78,2024-01-07,Facebook Ads,Mobile
+79,2024-02-09,Facebook Ads,Desktop
+80,2024-01-12,Referral,Mobile
+81,2024-06-27,Organic,Mobile
+82,2024-03-28,Referral,Desktop
+83,2024-02-06,Facebook Ads,Mobile
+84,2024-01-06,Organic,Mobile
+85,2024-02-03,Organic,Mobile
+86,2024-02-05,Organic,Mobile
+87,2024-04-27,Google Ads,Desktop
+88,2024-04-01,Facebook Ads,Mobile
+89,2024-07-15,Organic,Desktop
+90,2024-02-27,Facebook Ads,Mobile
+91,2024-01-12,Google Ads,Mobile
+92,2024-04-22,Referral,Desktop
+93,2024-05-08,Google Ads,Mobile
+94,2024-03-15,Organic,Desktop
+95,2024-05-12,Facebook Ads,Mobile
+96,2024-03-02,Organic,Desktop
+97,2024-03-07,Referral,Mobile
+98,2024-02-20,Facebook Ads,Desktop
+99,2024-01-03,Facebook Ads,Mobile
+100,2024-01-11,Google Ads,Desktop
+101,2024-01-03,Facebook Ads,Mobile
+102,2024-04-01,Organic,Desktop
+103,2024-02-03,Referral,Mobile
+104,2024-03-04,Google Ads,Desktop
+105,2024-08-02,Facebook Ads,Mobile
+106,2024-01-26,Google Ads,Mobile
+107,2024-02-17,Organic,Mobile
+108,2024-05-06,Facebook Ads,Mobile
+109,2024-01-24,Organic,Mobile
+110,2024-01-08,Organic,Desktop
+111,2024-01-31,Organic,Desktop
+112,2024-01-16,Facebook Ads,Mobile
+113,2024-08-26,Organic,Desktop
+114,2024-05-28,Facebook Ads,Mobile
+115,2024-03-31,Facebook Ads,Mobile
+116,2024-07-03,Referral,Desktop
+117,2024-05-26,Organic,Desktop
+118,2024-01-19,Facebook Ads,Desktop
+119,2024-07-19,Facebook Ads,Mobile
+120,2024-03-10,Facebook Ads,Desktop
+121,2024-05-28,Facebook Ads,Mobile
+122,2024-07-22,Facebook Ads,Mobile
+123,2024-02-04,Facebook Ads,Mobile
+124,2024-01-11,Google Ads,Desktop
+125,2024-01-24,Organic,Desktop
+126,2024-02-20,Organic,Desktop
+127,2024-06-02,Organic,Mobile
+128,2024-06-26,Facebook Ads,Mobile
+129,2024-01-01,Referral,Mobile
+130,2024-03-05,Organic,Mobile
+131,2024-02-18,Organic,Mobile
+132,2024-01-23,Organic,Desktop
+133,2024-01-12,Referral,Mobile
+134,2024-02-07,Google Ads,Mobile
+135,2024-09-14,Facebook Ads,Mobile
+136,2024-02-05,Organic,Mobile
+137,2024-03-06,Organic,Mobile
+138,2024-04-19,Organic,Desktop
+139,2024-02-10,Google Ads,Desktop
+140,2024-11-17,Facebook Ads,Desktop
+141,2024-10-22,Google Ads,Mobile
+142,2024-01-27,Referral,Mobile
+143,2024-03-02,Organic,Mobile
+144,2024-02-02,Google Ads,Desktop
+145,2024-01-31,Facebook Ads,Desktop
+146,2024-01-04,Google Ads,Mobile
+147,2024-03-25,Referral,Mobile
+148,2024-03-03,Organic,Mobile
+149,2024-01-05,Organic,Desktop
+150,2024-01-30,Google Ads,Desktop
+151,2024-08-02,Organic,Desktop
+152,2024-01-25,Facebook Ads,Mobile
+153,2024-01-15,Organic,Mobile
+154,2024-03-01,Google Ads,Mobile
+155,2025-01-16,Google Ads,Mobile
+156,2024-01-25,Organic,Mobile
+157,2024-04-10,Referral,Desktop
+158,2024-05-09,Facebook Ads,Desktop
+159,2024-01-25,Organic,Mobile
+160,2024-04-27,Facebook Ads,Desktop
+161,2024-02-11,Google Ads,Mobile
+162,2024-03-31,Facebook Ads,Mobile
+163,2024-03-31,Google Ads,Mobile
+164,2024-03-10,Google Ads,Mobile
+165,2024-01-09,Facebook Ads,Mobile
+166,2024-06-11,Google Ads,Mobile
+167,2024-02-04,Referral,Mobile
+168,2024-01-19,Facebook Ads,Desktop
+169,2024-01-04,Organic,Mobile
+170,2024-03-21,Google Ads,Mobile
+171,2024-04-11,Organic,Mobile
+172,2024-01-02,Facebook Ads,Desktop
+173,2024-03-05,Facebook Ads,Mobile
+174,2024-01-24,Facebook Ads,Desktop
+175,2024-04-03,Facebook Ads,Mobile
+176,2024-01-18,Facebook Ads,Mobile
+177,2024-04-15,Organic,Desktop
+178,2024-02-14,Referral,Mobile
+179,2024-09-05,Organic,Mobile
+180,2024-01-14,Organic,Mobile
+181,2024-02-07,Facebook Ads,Desktop
+182,2024-01-11,Facebook Ads,Mobile
+183,2024-08-20,Google Ads,Mobile
+184,2024-07-07,Facebook Ads,Desktop
+185,2024-01-27,Google Ads,Mobile
+186,2024-04-07,Google Ads,Desktop
+187,2024-06-01,Google Ads,Desktop
+188,2024-03-13,Google Ads,Mobile
+189,2024-03-08,Organic,Mobile
+190,2024-01-25,Organic,Mobile
+191,2024-01-09,Google Ads,Desktop
+192,2024-07-23,Referral,Desktop
+193,2024-07-26,Referral,Desktop
+194,2024-03-31,Google Ads,Desktop
+195,2024-02-07,Google Ads,Desktop
+196,2024-02-08,Google Ads,Mobile
+197,2024-04-26,Referral,Mobile
+198,2024-07-23,Referral,Desktop
+199,2024-07-15,Facebook Ads,Mobile
+200,2024-05-16,Google Ads,Mobile
+201,2024-04-02,Organic,Desktop
+202,2024-01-08,Google Ads,Mobile
+203,2024-01-16,Facebook Ads,Desktop
+204,2024-07-24,Referral,Desktop
+205,2024-03-24,Organic,Mobile
+206,2024-01-01,Organic,Desktop
+207,2024-01-10,Referral,Mobile
+208,2024-04-08,Organic,Mobile
+209,2024-01-01,Google Ads,Mobile
+210,2024-01-16,Organic,Mobile
+211,2024-03-12,Facebook Ads,Mobile
+212,2024-04-15,Organic,Mobile
+213,2024-04-04,Facebook Ads,Mobile
+214,2024-01-23,Organic,Mobile
+215,2024-04-22,Facebook Ads,Desktop
+216,2024-01-25,Facebook Ads,Desktop
+217,2024-02-05,Facebook Ads,Mobile
+218,2024-05-03,Facebook Ads,Mobile
+219,2024-04-04,Organic,Mobile
+220,2024-06-19,Organic,Mobile
+221,2024-04-06,Google Ads,Desktop
+222,2024-03-16,Facebook Ads,Desktop
+223,2024-01-09,Facebook Ads,Mobile
+224,2024-02-11,Facebook Ads,Mobile
+225,2024-01-28,Facebook Ads,Mobile
+226,2024-01-26,Referral,Desktop
+227,2024-11-21,Facebook Ads,Mobile
+228,2024-02-14,Google Ads,Desktop
+229,2024-07-19,Facebook Ads,Desktop
+230,2024-03-30,Facebook Ads,Mobile
+231,2024-05-22,Google Ads,Desktop
+232,2024-03-03,Organic,Desktop
+233,2024-03-18,Facebook Ads,Desktop
+234,2024-03-02,Facebook Ads,Mobile
+235,2024-01-20,Google Ads,Mobile
+236,2024-04-25,Facebook Ads,Desktop
+237,2024-01-30,Facebook Ads,Desktop
+238,2024-01-03,Referral,Desktop
+239,2024-04-03,Organic,Desktop
+240,2024-01-18,Organic,Desktop
+241,2024-09-10,Google Ads,Desktop
+242,2024-10-03,Google Ads,Mobile
+243,2024-08-09,Google Ads,Mobile
+244,2024-02-11,Organic,Desktop
+245,2024-01-02,Organic,Desktop
+246,2024-08-25,Facebook Ads,Desktop
+247,2024-02-20,Google Ads,Mobile
+248,2024-11-02,Google Ads,Desktop
+249,2024-10-25,Referral,Desktop
+250,2024-06-21,Organic,Mobile
+251,2024-02-01,Google Ads,Mobile
+252,2024-02-13,Facebook Ads,Mobile
+253,2024-06-20,Organic,Mobile
+254,2024-02-04,Facebook Ads,Mobile
+255,2024-01-17,Google Ads,Mobile
+256,2024-03-14,Facebook Ads,Mobile
+257,2024-09-04,Organic,Desktop
+258,2024-04-17,Facebook Ads,Desktop
+259,2024-03-16,Google Ads,Desktop
+260,2024-01-10,Referral,Mobile
+261,2024-03-26,Facebook Ads,Mobile
+262,2025-02-18,Google Ads,Desktop
+263,2024-01-14,Google Ads,Mobile
+264,2024-03-06,Facebook Ads,Desktop
+265,2024-07-07,Organic,Desktop
+266,2024-05-01,Facebook Ads,Mobile
+267,2024-04-17,Google Ads,Desktop
+268,2024-04-19,Organic,Mobile
+269,2024-02-10,Organic,Mobile
+270,2024-02-01,Organic,Desktop
+271,2024-05-29,Facebook Ads,Mobile
+272,2024-05-29,Facebook Ads,Desktop
+273,2024-06-30,Organic,Mobile
+274,2024-08-08,Google Ads,Mobile
+275,2024-03-05,Organic,Desktop
+276,2024-03-03,Organic,Desktop
+277,2024-05-24,Organic,Mobile
+278,2024-04-04,Google Ads,Mobile
+279,2024-04-18,Google Ads,Desktop
+280,2024-05-22,Organic,Mobile
+281,2024-07-17,Google Ads,Desktop
+282,2024-02-07,Facebook Ads,Desktop
+283,2024-02-12,Referral,Desktop
+284,2024-01-09,Referral,Desktop
+285,2024-03-18,Google Ads,Mobile
+286,2024-01-04,Facebook Ads,Desktop
+287,2024-02-26,Google Ads,Desktop
+288,2024-03-11,Organic,Mobile
+289,2024-01-31,Referral,Desktop
+290,2024-03-21,Facebook Ads,Mobile
+291,2024-01-03,Facebook Ads,Mobile
+292,2024-01-04,Referral,Mobile
+293,2024-06-04,Google Ads,Desktop
+294,2024-02-10,Google Ads,Mobile
+295,2024-01-13,Referral,Desktop
+296,2024-03-07,Facebook Ads,Desktop
+297,2024-05-12,Organic,Mobile
+298,2024-01-22,Facebook Ads,Mobile
+299,2024-03-28,Google Ads,Desktop
+300,2024-01-09,Organic,Mobile
+301,2024-01-05,Google Ads,Desktop
+302,2024-03-09,Referral,Mobile
+303,2024-03-11,Organic,Mobile
+304,2024-04-01,Google Ads,Desktop
+305,2024-04-26,Facebook Ads,Mobile
+306,2024-12-01,Google Ads,Mobile
+307,2024-03-06,Google Ads,Mobile
+308,2024-02-05,Facebook Ads,Mobile
+309,2024-05-22,Google Ads,Mobile
+310,2024-01-29,Google Ads,Desktop
+311,2024-02-22,Organic,Mobile
+312,2024-01-08,Organic,Mobile
+313,2024-01-03,Organic,Desktop
+314,2024-10-22,Facebook Ads,Mobile
+315,2024-06-11,Facebook Ads,Mobile
+316,2024-04-17,Organic,Desktop
+317,2024-02-17,Google Ads,Desktop
+318,2024-01-18,Facebook Ads,Desktop
+319,2024-01-16,Organic,Desktop
+320,2024-01-26,Organic,Mobile
+321,2024-03-12,Google Ads,Desktop
+322,2024-04-22,Facebook Ads,Mobile
+323,2024-04-07,Organic,Mobile
+324,2024-01-30,Organic,Mobile
+325,2024-10-05,Organic,Mobile
+326,2024-04-30,Organic,Mobile
+327,2024-03-13,Organic,Desktop
+328,2024-03-26,Google Ads,Mobile
+329,2024-02-18,Facebook Ads,Mobile
+330,2024-01-26,Organic,Mobile
+331,2024-02-09,Organic,Mobile
+332,2024-05-07,Organic,Desktop
+333,2024-01-02,Facebook Ads,Mobile
+334,2024-01-12,Facebook Ads,Mobile
+335,2024-01-05,Referral,Mobile
+336,2024-01-04,Organic,Desktop
+337,2024-06-23,Referral,Mobile
+338,2024-04-19,Organic,Mobile
+339,2024-02-27,Organic,Mobile
+340,2024-01-10,Organic,Mobile
+341,2024-03-01,Referral,Mobile
+342,2024-02-27,Organic,Desktop
+343,2024-01-18,Organic,Desktop
+344,2024-02-21,Facebook Ads,Desktop
+345,2024-02-15,Google Ads,Mobile
+346,2024-03-27,Organic,Mobile
+347,2024-03-31,Facebook Ads,Mobile
+348,2024-01-05,Facebook Ads,Desktop
+349,2024-02-12,Google Ads,Desktop
+350,2024-03-29,Facebook Ads,Desktop
+351,2024-03-03,Facebook Ads,Mobile
+352,2024-06-23,Google Ads,Mobile
+353,2024-04-06,Referral,Mobile
+354,2024-01-17,Google Ads,Desktop
+355,2024-01-07,Facebook Ads,Desktop
+356,2024-04-02,Facebook Ads,Desktop
+357,2024-01-03,Organic,Mobile
+358,2024-03-20,Google Ads,Mobile
+359,2024-09-10,Organic,Desktop
+360,2024-03-18,Organic,Desktop
+361,2024-02-14,Organic,Mobile
+362,2024-04-02,Facebook Ads,Mobile
+363,2024-02-25,Organic,Mobile
+364,2024-03-11,Facebook Ads,Mobile
+365,2024-09-12,Referral,Mobile
+366,2024-02-13,Organic,Desktop
+367,2024-10-19,Google Ads,Mobile
+368,2024-07-31,Facebook Ads,Mobile
+369,2024-01-20,Facebook Ads,Mobile
+370,2024-01-07,Organic,Desktop
+371,2024-01-10,Facebook Ads,Desktop
+372,2024-01-02,Organic,Mobile
+373,2024-01-09,Facebook Ads,Desktop
+374,2024-04-13,Organic,Desktop
+375,2024-01-07,Organic,Mobile
+376,2024-02-04,Organic,Mobile
+377,2024-06-16,Organic,Desktop
+378,2024-01-03,Facebook Ads,Desktop
+379,2024-05-31,Facebook Ads,Desktop
+380,2024-01-30,Organic,Desktop
+381,2024-01-12,Google Ads,Desktop
+382,2024-04-17,Google Ads,Mobile
+383,2024-03-30,Facebook Ads,Mobile
+384,2024-07-07,Facebook Ads,Mobile
+385,2024-04-29,Facebook Ads,Mobile
+386,2024-05-26,Referral,Desktop
+387,2024-01-30,Facebook Ads,Desktop
+388,2024-01-18,Organic,Desktop
+389,2024-05-04,Facebook Ads,Mobile
+390,2024-05-27,Organic,Desktop
+391,2025-02-23,Google Ads,Mobile
+392,2024-02-17,Referral,Mobile
+393,2024-02-11,Referral,Desktop
+394,2024-05-14,Google Ads,Desktop
+395,2024-02-07,Referral,Desktop
+396,2024-08-28,Referral,Mobile
+397,2024-06-24,Organic,Mobile
+398,2024-02-20,Organic,Mobile
+399,2024-05-05,Facebook Ads,Mobile
+400,2024-05-06,Organic,Desktop
+401,2024-01-10,Facebook Ads,Desktop
+402,2024-07-28,Facebook Ads,Desktop
+403,2024-03-04,Referral,Mobile
+404,2024-06-06,Google Ads,Desktop
+405,2024-02-04,Organic,Mobile
+406,2024-07-22,Organic,Desktop
+407,2024-02-14,Referral,Mobile
+408,2024-01-01,Referral,Mobile
+409,2024-07-31,Facebook Ads,Mobile
+410,2024-01-09,Facebook Ads,Desktop
+411,2024-02-04,Google Ads,Mobile
+412,2024-09-26,Facebook Ads,Mobile
+413,2024-09-27,Facebook Ads,Desktop
+414,2024-03-17,Google Ads,Mobile
+415,2024-03-30,Organic,Mobile
+416,2024-02-23,Organic,Mobile
+417,2024-02-01,Google Ads,Mobile
+418,2024-02-05,Organic,Desktop
+419,2024-04-10,Facebook Ads,Desktop
+420,2024-05-05,Facebook Ads,Mobile
+421,2024-05-21,Organic,Desktop
+422,2024-05-20,Organic,Mobile
+423,2024-01-09,Organic,Mobile
+424,2024-03-02,Facebook Ads,Mobile
+425,2024-01-06,Organic,Mobile
+426,2024-03-12,Organic,Mobile
+427,2024-02-22,Organic,Desktop
+428,2024-07-15,Organic,Desktop
+429,2024-02-08,Referral,Mobile
+430,2024-01-12,Organic,Desktop
+431,2024-01-14,Organic,Desktop
+432,2024-05-09,Referral,Desktop
+433,2024-03-27,Organic,Desktop
+434,2024-01-10,Google Ads,Mobile
+435,2024-01-08,Organic,Desktop
+436,2024-04-18,Google Ads,Desktop
+437,2024-01-07,Facebook Ads,Desktop
+438,2024-06-04,Organic,Mobile
+439,2024-04-20,Referral,Mobile
+440,2024-01-08,Referral,Mobile
+441,2024-01-08,Google Ads,Mobile
+442,2025-01-23,Google Ads,Mobile
+443,2024-02-12,Facebook Ads,Desktop
+444,2024-02-11,Referral,Mobile
+445,2024-05-30,Referral,Desktop
+446,2024-09-21,Organic,Mobile
+447,2025-01-19,Organic,Desktop
+448,2024-05-05,Organic,Mobile
+449,2024-02-12,Organic,Mobile
+450,2024-01-08,Facebook Ads,Desktop
+451,2024-05-15,Google Ads,Desktop
+452,2024-03-14,Organic,Desktop
+453,2024-02-19,Organic,Mobile
+454,2024-08-01,Google Ads,Mobile
+455,2024-01-11,Referral,Desktop
+456,2024-03-02,Facebook Ads,Mobile
+457,2024-01-02,Google Ads,Desktop
+458,2024-02-26,Organic,Mobile
+459,2024-01-06,Organic,Mobile
+460,2024-01-12,Organic,Mobile
+461,2024-01-12,Facebook Ads,Mobile
+462,2024-04-04,Facebook Ads,Desktop
+463,2024-05-03,Organic,Desktop
+464,2024-03-19,Organic,Mobile
+465,2024-10-21,Facebook Ads,Desktop
+466,2024-02-12,Organic,Mobile
+467,2024-01-31,Google Ads,Mobile
+468,2024-07-01,Organic,Mobile
+469,2024-01-23,Organic,Desktop
+470,2024-10-24,Facebook Ads,Desktop
+471,2024-01-02,Facebook Ads,Desktop
+472,2024-11-11,Organic,Desktop
+473,2024-01-04,Organic,Desktop
+474,2024-07-18,Organic,Desktop
+475,2024-03-08,Organic,Desktop
+476,2025-03-22,Organic,Desktop
+477,2024-01-07,Referral,Mobile
+478,2024-03-13,Google Ads,Mobile
+479,2024-11-09,Google Ads,Mobile
+480,2024-03-07,Google Ads,Mobile
+481,2024-03-30,Facebook Ads,Desktop
+482,2024-04-17,Organic,Mobile
+483,2024-02-24,Facebook Ads,Desktop
+484,2024-03-29,Referral,Mobile
+485,2024-03-20,Organic,Mobile
+486,2024-07-27,Organic,Mobile
+487,2024-01-05,Google Ads,Desktop
+488,2024-01-30,Facebook Ads,Mobile
+489,2024-09-27,Facebook Ads,Mobile
+490,2024-07-17,Google Ads,Desktop
+491,2024-02-24,Facebook Ads,Desktop
+492,2024-03-28,Organic,Mobile
+493,2024-01-30,Referral,Mobile
+494,2024-01-19,Referral,Mobile
+495,2024-02-26,Organic,Desktop
+496,2024-02-09,Facebook Ads,Mobile
+497,2024-03-19,Referral,Mobile
+498,2024-01-08,Referral,Mobile
+499,2024-11-25,Facebook Ads,Mobile
+500,2025-01-20,Organic,Desktop
+501,2024-04-17,Facebook Ads,Mobile
+502,2024-03-10,Organic,Mobile
+503,2024-02-03,Referral,Mobile
+504,2024-05-31,Facebook Ads,Mobile
+505,2024-04-13,Referral,Mobile
+506,2024-01-16,Organic,Desktop
+507,2024-08-05,Referral,Desktop
+508,2024-06-04,Google Ads,Desktop
+509,2024-09-26,Organic,Desktop
+510,2024-04-26,Facebook Ads,Desktop
+511,2024-03-26,Google Ads,Mobile
+512,2024-02-18,Facebook Ads,Desktop
+513,2024-08-30,Referral,Desktop
+514,2024-06-29,Organic,Desktop
+515,2024-01-05,Referral,Mobile
+516,2024-01-03,Referral,Mobile
+517,2024-02-12,Facebook Ads,Desktop
+518,2024-05-29,Google Ads,Desktop
+519,2025-01-27,Facebook Ads,Desktop
+520,2024-01-15,Facebook Ads,Mobile
+521,2024-03-22,Facebook Ads,Mobile
+522,2024-02-13,Google Ads,Mobile
+523,2024-11-11,Facebook Ads,Desktop
+524,2024-06-15,Facebook Ads,Mobile
+525,2024-06-12,Facebook Ads,Mobile
+526,2024-02-26,Facebook Ads,Desktop
+527,2024-02-18,Referral,Mobile
+528,2024-01-29,Organic,Desktop
+529,2024-01-06,Referral,Mobile
+530,2024-06-29,Google Ads,Desktop
+531,2024-05-30,Facebook Ads,Desktop
+532,2026-01-05,Organic,Desktop
+533,2025-05-27,Google Ads,Desktop
+534,2024-03-13,Facebook Ads,Mobile
+535,2024-05-11,Facebook Ads,Mobile
+536,2024-09-17,Facebook Ads,Mobile
+537,2024-06-19,Facebook Ads,Desktop
+538,2024-01-26,Google Ads,Desktop
+539,2024-02-23,Organic,Mobile
+540,2024-01-13,Facebook Ads,Desktop
+541,2024-10-04,Facebook Ads,Mobile
+542,2024-03-24,Organic,Desktop
+543,2024-01-24,Facebook Ads,Desktop
+544,2024-04-10,Google Ads,Mobile
+545,2024-03-27,Referral,Mobile
+546,2024-02-09,Facebook Ads,Mobile
+547,2024-01-11,Facebook Ads,Desktop
+548,2024-04-10,Google Ads,Mobile
+549,2024-03-07,Google Ads,Mobile
+550,2024-05-13,Organic,Mobile
+551,2024-03-07,Organic,Mobile
+552,2024-06-21,Facebook Ads,Mobile
+553,2024-03-13,Organic,Desktop
+554,2024-03-15,Google Ads,Mobile
+555,2024-07-07,Facebook Ads,Desktop
+556,2024-02-16,Organic,Desktop
+557,2024-01-13,Facebook Ads,Mobile
+558,2024-01-03,Google Ads,Mobile
+559,2024-05-06,Facebook Ads,Desktop
+560,2024-03-28,Google Ads,Desktop
+561,2024-04-19,Google Ads,Mobile
+562,2024-01-22,Organic,Mobile
+563,2024-01-14,Facebook Ads,Mobile
+564,2024-01-02,Google Ads,Desktop
+565,2024-02-08,Google Ads,Mobile
+566,2024-03-21,Organic,Mobile
+567,2024-02-14,Organic,Desktop
+568,2024-02-21,Organic,Desktop
+569,2024-07-30,Organic,Mobile
+570,2024-02-08,Referral,Mobile
+571,2024-03-05,Google Ads,Desktop
+572,2024-05-17,Google Ads,Mobile
+573,2024-02-15,Organic,Mobile
+574,2024-03-28,Referral,Desktop
+575,2024-06-27,Referral,Mobile
+576,2024-09-25,Google Ads,Desktop
+577,2024-01-15,Facebook Ads,Desktop
+578,2024-08-23,Google Ads,Mobile
+579,2024-03-01,Organic,Mobile
+580,2024-01-27,Google Ads,Desktop
+581,2024-02-25,Google Ads,Desktop
+582,2024-12-18,Organic,Desktop
+583,2024-03-02,Google Ads,Desktop
+584,2024-02-05,Referral,Mobile
+585,2024-03-31,Google Ads,Desktop
+586,2024-01-25,Google Ads,Mobile
+587,2024-01-08,Google Ads,Mobile
+588,2024-01-13,Organic,Mobile
+589,2024-01-13,Facebook Ads,Mobile
+590,2024-01-15,Facebook Ads,Desktop
+591,2024-01-14,Referral,Mobile
+592,2024-04-02,Facebook Ads,Mobile
+593,2024-01-19,Organic,Mobile
+594,2024-02-08,Organic,Desktop
+595,2024-07-23,Google Ads,Desktop
+596,2024-02-27,Organic,Mobile
+597,2024-04-09,Facebook Ads,Mobile
+598,2024-01-18,Organic,Mobile
+599,2024-01-20,Google Ads,Desktop
+600,2024-01-04,Organic,Desktop
+601,2024-01-17,Facebook Ads,Mobile
+602,2024-01-30,Organic,Desktop
+603,2024-01-18,Facebook Ads,Mobile
+604,2024-01-09,Facebook Ads,Desktop
+605,2024-01-12,Facebook Ads,Mobile
+606,2024-02-25,Facebook Ads,Mobile
+607,2024-01-21,Organic,Mobile
+608,2024-02-10,Facebook Ads,Mobile
+609,2024-03-04,Referral,Desktop
+610,2024-04-15,Referral,Mobile
+611,2024-01-04,Organic,Desktop
+612,2024-05-24,Facebook Ads,Desktop
+613,2024-03-29,Google Ads,Mobile
+614,2024-01-08,Organic,Mobile
+615,2024-07-05,Google Ads,Mobile
+616,2024-08-16,Facebook Ads,Desktop
+617,2024-01-06,Organic,Mobile
+618,2024-01-30,Organic,Mobile
+619,2024-05-27,Organic,Mobile
+620,2024-05-04,Facebook Ads,Desktop
+621,2024-01-19,Organic,Mobile
+622,2024-01-22,Facebook Ads,Mobile
+623,2024-02-11,Facebook Ads,Mobile
+624,2024-02-29,Referral,Mobile
+625,2024-03-27,Facebook Ads,Desktop
+626,2024-02-11,Facebook Ads,Mobile
+627,2024-02-25,Facebook Ads,Desktop
+628,2024-05-03,Referral,Desktop
+629,2024-01-04,Organic,Desktop
+630,2024-01-27,Organic,Desktop
+631,2024-04-22,Organic,Mobile
+632,2024-07-22,Facebook Ads,Mobile
+633,2024-03-05,Google Ads,Desktop
+634,2024-03-09,Google Ads,Mobile
+635,2024-01-11,Facebook Ads,Desktop
+636,2024-02-23,Google Ads,Mobile
+637,2024-03-09,Referral,Desktop
+638,2024-01-25,Facebook Ads,Desktop
+639,2024-01-29,Facebook Ads,Mobile
+640,2024-02-12,Facebook Ads,Mobile
+641,2024-01-02,Facebook Ads,Desktop
+642,2024-02-04,Referral,Desktop
+643,2024-01-22,Google Ads,Mobile
+644,2024-02-05,Google Ads,Desktop
+645,2024-01-12,Organic,Mobile
+646,2024-07-18,Facebook Ads,Mobile
+647,2024-03-22,Google Ads,Desktop
+648,2024-04-12,Google Ads,Desktop
+649,2024-05-20,Organic,Desktop
+650,2024-03-03,Referral,Desktop
+651,2024-01-09,Organic,Mobile
+652,2024-03-10,Google Ads,Desktop
+653,2024-03-20,Organic,Mobile
+654,2024-05-03,Facebook Ads,Mobile
+655,2024-02-20,Facebook Ads,Mobile
+656,2024-01-13,Facebook Ads,Mobile
+657,2024-01-31,Google Ads,Mobile
+658,2024-02-10,Google Ads,Mobile
+659,2024-04-03,Organic,Mobile
+660,2024-03-17,Referral,Mobile
+661,2024-02-09,Google Ads,Desktop
+662,2025-01-22,Google Ads,Mobile
+663,2024-03-24,Facebook Ads,Mobile
+664,2024-01-25,Facebook Ads,Desktop
+665,2024-01-10,Organic,Desktop
+666,2024-01-15,Google Ads,Desktop
+667,2024-01-26,Organic,Mobile
+668,2024-01-16,Facebook Ads,Desktop
+669,2024-01-19,Facebook Ads,Mobile
+670,2024-01-31,Google Ads,Mobile
+671,2024-01-18,Facebook Ads,Mobile
+672,2024-07-23,Facebook Ads,Desktop
+673,2024-01-08,Organic,Mobile
+674,2024-03-07,Facebook Ads,Mobile
+675,2024-02-17,Organic,Mobile
+676,2024-12-29,Facebook Ads,Desktop
+677,2024-01-11,Facebook Ads,Desktop
+678,2024-02-15,Google Ads,Mobile
+679,2024-11-10,Organic,Desktop
+680,2024-06-29,Google Ads,Mobile
+681,2024-06-01,Organic,Desktop
+682,2024-01-27,Facebook Ads,Mobile
+683,2024-01-17,Organic,Desktop
+684,2024-04-09,Facebook Ads,Mobile
+685,2024-08-26,Organic,Desktop
+686,2024-03-14,Organic,Mobile
+687,2024-03-17,Referral,Mobile
+688,2024-01-30,Google Ads,Mobile
+689,2024-05-12,Facebook Ads,Mobile
+690,2024-01-19,Facebook Ads,Mobile
+691,2024-02-05,Organic,Desktop
+692,2024-02-19,Google Ads,Mobile
+693,2024-03-04,Organic,Desktop
+694,2024-01-25,Facebook Ads,Desktop
+695,2024-01-11,Google Ads,Desktop
+696,2024-03-25,Facebook Ads,Desktop
+697,2024-01-31,Referral,Desktop
+698,2024-03-19,Organic,Mobile
+699,2024-01-16,Referral,Desktop
+700,2024-02-29,Facebook Ads,Mobile
+701,2024-03-09,Organic,Desktop
+702,2024-01-05,Organic,Desktop
+703,2024-02-06,Google Ads,Mobile
+704,2024-01-13,Organic,Mobile
+705,2024-01-06,Referral,Mobile
+706,2025-02-18,Referral,Desktop
+707,2024-02-05,Organic,Desktop
+708,2024-05-29,Facebook Ads,Mobile
+709,2024-01-27,Facebook Ads,Desktop
+710,2024-04-12,Referral,Desktop
+711,2024-05-08,Facebook Ads,Mobile
+712,2024-03-22,Organic,Mobile
+713,2024-02-27,Organic,Desktop
+714,2024-02-17,Organic,Desktop
+715,2024-02-08,Referral,Desktop
+716,2024-08-26,Google Ads,Mobile
+717,2024-06-08,Google Ads,Mobile
+718,2024-10-28,Facebook Ads,Mobile
+719,2024-01-12,Google Ads,Mobile
+720,2024-04-28,Facebook Ads,Mobile
+721,2024-09-07,Google Ads,Desktop
+722,2024-01-18,Organic,Mobile
+723,2024-01-07,Referral,Desktop
+724,2024-05-01,Facebook Ads,Mobile
+725,2024-03-17,Google Ads,Desktop
+726,2024-06-14,Referral,Mobile
+727,2024-01-14,Facebook Ads,Mobile
+728,2024-05-22,Facebook Ads,Mobile
+729,2024-01-21,Facebook Ads,Desktop
+730,2024-01-17,Organic,Desktop
+731,2024-01-17,Facebook Ads,Mobile
+732,2024-05-31,Referral,Mobile
+733,2024-04-08,Google Ads,Desktop
+734,2024-03-07,Google Ads,Mobile
+735,2024-02-10,Facebook Ads,Mobile
+736,2024-07-07,Google Ads,Desktop
+737,2024-02-14,Organic,Desktop
+738,2024-06-01,Organic,Mobile
+739,2024-02-22,Organic,Mobile
+740,2024-02-12,Organic,Desktop
+741,2024-02-25,Referral,Mobile
+742,2024-02-02,Organic,Mobile
+743,2024-05-03,Organic,Desktop
+744,2024-03-03,Facebook Ads,Desktop
+745,2024-01-24,Facebook Ads,Mobile
+746,2024-07-25,Facebook Ads,Desktop
+747,2024-02-13,Organic,Desktop
+748,2024-03-11,Google Ads,Mobile
+749,2024-08-01,Google Ads,Desktop
+750,2024-03-29,Referral,Mobile
+751,2024-01-12,Referral,Mobile
+752,2024-09-09,Referral,Desktop
+753,2024-03-29,Google Ads,Mobile
+754,2024-02-06,Organic,Mobile
+755,2024-01-14,Facebook Ads,Mobile
+756,2024-05-22,Facebook Ads,Mobile
+757,2024-03-28,Facebook Ads,Desktop
+758,2024-03-09,Google Ads,Desktop
+759,2024-07-20,Google Ads,Desktop
+760,2024-05-19,Organic,Mobile
+761,2024-01-15,Facebook Ads,Mobile
+762,2024-02-03,Organic,Mobile
+763,2024-01-26,Google Ads,Mobile
+764,2024-05-02,Facebook Ads,Mobile
+765,2024-01-04,Google Ads,Desktop
+766,2024-03-16,Facebook Ads,Desktop
+767,2024-05-09,Organic,Desktop
+768,2024-07-07,Google Ads,Mobile
+769,2024-02-07,Facebook Ads,Desktop
+770,2024-06-03,Facebook Ads,Mobile
+771,2024-01-11,Google Ads,Mobile
+772,2024-06-17,Referral,Desktop
+773,2024-01-13,Google Ads,Desktop
+774,2024-02-15,Organic,Mobile
+775,2024-05-23,Organic,Mobile
+776,2024-01-15,Referral,Mobile
+777,2024-01-24,Organic,Desktop
+778,2024-04-25,Organic,Mobile
+779,2024-04-24,Organic,Desktop
+780,2024-04-02,Referral,Mobile
+781,2024-04-16,Google Ads,Mobile
+782,2024-03-11,Google Ads,Mobile
+783,2024-01-27,Facebook Ads,Mobile
+784,2024-02-08,Organic,Mobile
+785,2024-01-19,Organic,Desktop
+786,2024-08-03,Facebook Ads,Desktop
+787,2024-03-19,Organic,Desktop
+788,2024-02-16,Google Ads,Desktop
+789,2024-02-25,Facebook Ads,Desktop
+790,2024-09-21,Referral,Desktop
+791,2024-01-15,Facebook Ads,Desktop
+792,2024-03-20,Facebook Ads,Mobile
+793,2024-03-04,Organic,Mobile
+794,2024-03-26,Organic,Mobile
+795,2024-01-02,Facebook Ads,Mobile
+796,2024-07-04,Organic,Mobile
+797,2024-08-30,Google Ads,Desktop
+798,2024-03-15,Facebook Ads,Mobile
+799,2024-04-17,Facebook Ads,Mobile
+800,2024-08-18,Organic,Mobile
+801,2024-04-20,Facebook Ads,Mobile
+802,2024-01-15,Referral,Mobile
+803,2024-03-18,Organic,Mobile
+804,2024-03-24,Referral,Mobile
+805,2024-02-19,Facebook Ads,Mobile
+806,2024-04-30,Referral,Desktop
+807,2024-09-02,Google Ads,Desktop
+808,2024-08-21,Google Ads,Mobile
+809,2024-02-23,Facebook Ads,Mobile
+810,2024-01-11,Facebook Ads,Mobile
+811,2025-01-12,Organic,Desktop
+812,2024-06-13,Google Ads,Mobile
+813,2024-01-12,Facebook Ads,Mobile
+814,2024-08-16,Organic,Desktop
+815,2024-07-02,Facebook Ads,Mobile
+816,2024-03-06,Organic,Mobile
+817,2024-03-21,Google Ads,Mobile
+818,2024-02-15,Organic,Desktop
+819,2024-01-06,Organic,Desktop
+820,2024-02-06,Google Ads,Desktop
+821,2024-05-26,Google Ads,Mobile
+822,2024-01-01,Google Ads,Mobile
+823,2024-02-06,Organic,Desktop
+824,2024-02-15,Google Ads,Desktop
+825,2024-03-10,Facebook Ads,Mobile
+826,2024-08-15,Facebook Ads,Desktop
+827,2024-02-08,Google Ads,Mobile
+828,2024-02-08,Google Ads,Mobile
+829,2024-04-30,Organic,Desktop
+830,2024-02-24,Facebook Ads,Mobile
+831,2024-01-23,Google Ads,Desktop
+832,2024-02-24,Organic,Mobile
+833,2024-01-14,Organic,Mobile
+834,2024-01-18,Google Ads,Desktop
+835,2024-03-03,Google Ads,Desktop
+836,2024-02-18,Google Ads,Mobile
+837,2024-08-09,Referral,Mobile
+838,2024-02-10,Facebook Ads,Desktop
+839,2024-03-19,Referral,Mobile
+840,2024-03-31,Organic,Desktop
+841,2024-01-02,Google Ads,Desktop
+842,2024-04-08,Facebook Ads,Mobile
+843,2024-01-18,Google Ads,Mobile
+844,2024-10-19,Google Ads,Mobile
+845,2024-01-15,Facebook Ads,Desktop
+846,2024-02-18,Organic,Mobile
+847,2024-01-09,Referral,Mobile
+848,2025-06-03,Organic,Mobile
+849,2024-03-03,Organic,Desktop
+850,2024-03-22,Facebook Ads,Mobile
+851,2024-01-07,Google Ads,Mobile
+852,2024-05-04,Facebook Ads,Desktop
+853,2024-01-22,Organic,Desktop
+854,2024-07-24,Referral,Desktop
+855,2024-01-21,Organic,Mobile
+856,2024-01-20,Facebook Ads,Mobile
+857,2024-01-04,Google Ads,Desktop
+858,2024-02-27,Organic,Mobile
+859,2024-03-15,Google Ads,Desktop
+860,2024-01-07,Organic,Desktop
+861,2024-05-14,Organic,Mobile
+862,2024-02-24,Organic,Desktop
+863,2024-03-07,Google Ads,Desktop
+864,2024-02-22,Facebook Ads,Mobile
+865,2024-02-16,Facebook Ads,Mobile
+866,2024-03-14,Google Ads,Mobile
+867,2024-01-16,Google Ads,Mobile
+868,2024-01-19,Organic,Mobile
+869,2024-06-27,Organic,Desktop
+870,2024-09-19,Facebook Ads,Desktop
+871,2024-02-12,Google Ads,Mobile
+872,2024-01-29,Facebook Ads,Mobile
+873,2024-04-02,Facebook Ads,Desktop
+874,2024-02-17,Organic,Mobile
+875,2024-01-03,Facebook Ads,Desktop
+876,2024-01-16,Google Ads,Mobile
+877,2024-04-23,Facebook Ads,Mobile
+878,2024-04-06,Referral,Mobile
+879,2024-01-03,Organic,Desktop
+880,2024-01-23,Facebook Ads,Mobile
+881,2024-01-24,Google Ads,Desktop
+882,2024-04-10,Organic,Mobile
+883,2024-01-02,Referral,Mobile
+884,2024-01-10,Facebook Ads,Mobile
+885,2024-05-24,Referral,Desktop
+886,2024-01-18,Referral,Desktop
+887,2024-04-05,Referral,Mobile
+888,2024-01-25,Organic,Mobile
+889,2024-01-10,Organic,Mobile
+890,2024-01-26,Google Ads,Mobile
+891,2024-04-25,Organic,Mobile
+892,2024-06-23,Google Ads,Desktop
+893,2024-06-08,Organic,Desktop
+894,2024-02-15,Google Ads,Mobile
+895,2024-04-09,Organic,Mobile
+896,2024-01-21,Organic,Desktop
+897,2024-02-01,Facebook Ads,Desktop
+898,2024-07-22,Organic,Mobile
+899,2024-01-02,Google Ads,Mobile
+900,2024-01-09,Organic,Mobile
+901,2024-01-21,Google Ads,Mobile
+902,2024-01-03,Google Ads,Mobile
+903,2024-01-19,Referral,Mobile
+904,2024-03-19,Facebook Ads,Desktop
+905,2024-02-19,Organic,Mobile
+906,2024-07-19,Google Ads,Mobile
+907,2024-06-02,Google Ads,Mobile
+908,2024-02-07,Google Ads,Desktop
+909,2024-01-28,Organic,Desktop
+910,2024-02-12,Google Ads,Mobile
+911,2024-03-21,Facebook Ads,Mobile
+912,2024-01-29,Facebook Ads,Desktop
+913,2024-03-29,Facebook Ads,Mobile
+914,2024-02-17,Referral,Mobile
+915,2024-03-13,Referral,Mobile
+916,2024-02-21,Google Ads,Mobile
+917,2024-02-01,Organic,Mobile
+918,2024-09-23,Google Ads,Desktop
+919,2024-05-09,Organic,Desktop
+920,2024-01-14,Organic,Mobile
+921,2024-07-01,Referral,Desktop
+922,2024-03-01,Google Ads,Mobile
+923,2024-07-21,Organic,Mobile
+924,2024-05-24,Facebook Ads,Desktop
+925,2024-02-19,Referral,Desktop
+926,2024-01-03,Facebook Ads,Mobile
+927,2024-01-29,Organic,Mobile
+928,2024-03-11,Organic,Desktop
+929,2024-03-31,Organic,Desktop
+930,2024-01-27,Facebook Ads,Desktop
+931,2024-01-14,Referral,Mobile
+932,2024-06-11,Facebook Ads,Mobile
+933,2025-01-09,Organic,Mobile
+934,2024-03-08,Facebook Ads,Mobile
+935,2024-01-17,Google Ads,Desktop
+936,2024-01-29,Google Ads,Mobile
+937,2024-01-02,Google Ads,Mobile
+938,2024-08-09,Facebook Ads,Desktop
+939,2024-01-12,Facebook Ads,Mobile
+940,2024-03-18,Google Ads,Mobile
+941,2024-01-29,Organic,Desktop
+942,2024-03-13,Referral,Desktop
+943,2024-04-04,Facebook Ads,Desktop
+944,2024-06-08,Google Ads,Mobile
+945,2024-01-21,Facebook Ads,Desktop
+946,2024-01-01,Facebook Ads,Desktop
+947,2024-01-14,Organic,Mobile
+948,2024-07-26,Organic,Mobile
+949,2024-07-05,Facebook Ads,Desktop
+950,2024-03-22,Facebook Ads,Mobile
+951,2024-03-23,Facebook Ads,Desktop
+952,2024-04-08,Organic,Mobile
+953,2024-01-18,Referral,Mobile
+954,2024-08-09,Facebook Ads,Mobile
+955,2024-02-18,Facebook Ads,Desktop
+956,2024-02-13,Referral,Mobile
+957,2024-03-06,Referral,Mobile
+958,2024-01-05,Google Ads,Desktop
+959,2024-01-17,Facebook Ads,Desktop
+960,2024-04-30,Facebook Ads,Desktop
+961,2024-01-08,Organic,Mobile
+962,2024-03-24,Google Ads,Mobile
+963,2024-01-26,Facebook Ads,Desktop
+964,2024-02-14,Organic,Desktop
+965,2024-01-31,Facebook Ads,Mobile
+966,2024-02-09,Organic,Mobile
+967,2024-04-24,Google Ads,Desktop
+968,2024-02-01,Facebook Ads,Mobile
+969,2024-03-16,Organic,Desktop
+970,2024-02-28,Google Ads,Mobile
+971,2024-04-08,Referral,Mobile
+972,2024-09-05,Google Ads,Desktop
+973,2024-04-28,Facebook Ads,Mobile
+974,2024-01-22,Organic,Mobile
+975,2024-01-03,Facebook Ads,Mobile
+976,2024-01-28,Referral,Mobile
+977,2024-03-22,Google Ads,Desktop
+978,2024-01-05,Google Ads,Desktop
+979,2024-03-02,Facebook Ads,Desktop
+980,2024-03-22,Google Ads,Mobile
+981,2024-02-06,Organic,Mobile
+982,2024-05-12,Organic,Mobile
+983,2024-01-11,Facebook Ads,Desktop
+984,2024-01-08,Facebook Ads,Desktop
+985,2024-04-27,Organic,Desktop
+986,2024-03-02,Referral,Mobile
+987,2024-04-14,Facebook Ads,Mobile
+988,2024-02-21,Google Ads,Mobile
+989,2024-01-26,Google Ads,Mobile
+990,2024-06-02,Referral,Mobile
+991,2024-05-24,Facebook Ads,Desktop
+992,2024-04-16,Facebook Ads,Mobile
+993,2024-01-29,Organic,Mobile
+994,2024-03-21,Facebook Ads,Mobile
+995,2024-02-10,Google Ads,Desktop
+996,2024-01-09,Google Ads,Desktop
+997,2024-08-12,Google Ads,Desktop
+998,2024-01-14,Google Ads,Desktop
+999,2024-09-27,Google Ads,Mobile
+1000,2024-02-23,Facebook Ads,Desktop
+1001,2024-01-19,Organic,Mobile
+1002,2024-03-11,Organic,Mobile
+1003,2024-07-04,Organic,Desktop
+1004,2024-04-28,Facebook Ads,Desktop
+1005,2024-05-27,Facebook Ads,Mobile
+1006,2024-04-06,Facebook Ads,Mobile
+1007,2024-04-16,Google Ads,Mobile
+1008,2024-06-19,Google Ads,Mobile
+1009,2024-01-26,Organic,Mobile
+1010,2024-03-01,Facebook Ads,Mobile
+1011,2024-01-23,Facebook Ads,Mobile
+1012,2025-01-30,Google Ads,Desktop
+1013,2024-09-16,Organic,Mobile
+1014,2024-01-04,Facebook Ads,Mobile
+1015,2024-04-20,Organic,Mobile
+1016,2024-08-21,Facebook Ads,Desktop
+1017,2024-01-18,Referral,Mobile
+1018,2024-03-16,Referral,Mobile
+1019,2024-08-10,Facebook Ads,Mobile
+1020,2024-01-04,Facebook Ads,Desktop
+1021,2024-04-17,Google Ads,Desktop
+1022,2024-02-01,Facebook Ads,Desktop
+1023,2024-08-20,Organic,Desktop
+1024,2024-11-14,Organic,Desktop
+1025,2024-09-16,Organic,Desktop
+1026,2024-02-27,Organic,Mobile
+1027,2024-06-27,Google Ads,Mobile
+1028,2024-06-16,Facebook Ads,Desktop
+1029,2024-02-04,Organic,Mobile
+1030,2024-06-07,Google Ads,Mobile
+1031,2024-01-04,Organic,Desktop
+1032,2024-03-22,Facebook Ads,Mobile
+1033,2024-01-24,Facebook Ads,Desktop
+1034,2024-01-12,Referral,Desktop
+1035,2024-01-08,Facebook Ads,Mobile
+1036,2024-04-17,Referral,Desktop
+1037,2024-02-07,Referral,Mobile
+1038,2024-04-26,Organic,Mobile
+1039,2024-01-07,Organic,Mobile
+1040,2024-02-04,Organic,Desktop
+1041,2024-03-10,Referral,Desktop
+1042,2024-05-20,Facebook Ads,Mobile
+1043,2024-02-04,Google Ads,Desktop
+1044,2024-03-29,Organic,Mobile
+1045,2024-07-14,Google Ads,Desktop
+1046,2024-03-27,Google Ads,Mobile
+1047,2024-01-24,Google Ads,Desktop
+1048,2024-01-03,Organic,Mobile
+1049,2024-07-02,Referral,Mobile
+1050,2024-01-02,Facebook Ads,Mobile
+1051,2024-07-05,Referral,Desktop
+1052,2024-03-08,Organic,Mobile
+1053,2024-09-08,Organic,Desktop
+1054,2024-05-24,Organic,Mobile
+1055,2025-07-10,Organic,Mobile
+1056,2024-02-08,Facebook Ads,Mobile
+1057,2024-05-11,Organic,Desktop
+1058,2024-02-16,Facebook Ads,Mobile
+1059,2024-02-28,Referral,Desktop
+1060,2024-03-29,Referral,Desktop
+1061,2024-07-05,Facebook Ads,Desktop
+1062,2025-01-07,Facebook Ads,Mobile
+1063,2024-05-11,Organic,Desktop
+1064,2024-02-18,Facebook Ads,Desktop
+1065,2024-02-19,Referral,Mobile
+1066,2024-04-30,Facebook Ads,Desktop
+1067,2024-01-25,Facebook Ads,Mobile
+1068,2024-01-11,Referral,Mobile
+1069,2024-02-09,Organic,Mobile
+1070,2024-01-31,Organic,Mobile
+1071,2024-02-01,Google Ads,Mobile
+1072,2024-01-24,Organic,Mobile
+1073,2024-01-04,Organic,Desktop
+1074,2024-01-02,Organic,Mobile
+1075,2025-01-30,Organic,Mobile
+1076,2024-02-20,Organic,Mobile
+1077,2024-02-13,Google Ads,Desktop
+1078,2024-04-12,Facebook Ads,Desktop
+1079,2024-01-23,Organic,Desktop
+1080,2024-09-26,Facebook Ads,Desktop
+1081,2024-05-18,Organic,Mobile
+1082,2024-01-09,Facebook Ads,Desktop
+1083,2024-02-18,Organic,Mobile
+1084,2024-07-09,Organic,Mobile
+1085,2024-09-17,Facebook Ads,Desktop
+1086,2024-02-26,Facebook Ads,Mobile
+1087,2024-03-26,Facebook Ads,Desktop
+1088,2024-01-17,Organic,Desktop
+1089,2025-03-01,Organic,Mobile
+1090,2024-01-24,Facebook Ads,Mobile
+1091,2024-09-14,Organic,Mobile
+1092,2024-04-04,Google Ads,Desktop
+1093,2024-03-25,Google Ads,Desktop
+1094,2024-03-05,Referral,Mobile
+1095,2024-01-24,Google Ads,Mobile
+1096,2024-01-18,Google Ads,Desktop
+1097,2024-01-23,Facebook Ads,Desktop
+1098,2024-01-19,Facebook Ads,Mobile
+1099,2024-05-16,Facebook Ads,Mobile
+1100,2024-02-08,Facebook Ads,Desktop
+1101,2024-01-06,Organic,Mobile
+1102,2024-11-08,Google Ads,Mobile
+1103,2024-07-12,Google Ads,Desktop
+1104,2024-08-24,Facebook Ads,Desktop
+1105,2025-04-20,Facebook Ads,Mobile
+1106,2024-01-18,Organic,Mobile
+1107,2024-02-15,Referral,Mobile
+1108,2024-05-07,Facebook Ads,Mobile
+1109,2024-04-17,Referral,Desktop
+1110,2024-01-16,Organic,Mobile
+1111,2024-06-01,Organic,Desktop
+1112,2024-01-23,Google Ads,Desktop
+1113,2024-01-23,Facebook Ads,Mobile
+1114,2024-03-10,Facebook Ads,Mobile
+1115,2024-03-21,Organic,Mobile
+1116,2024-03-19,Google Ads,Desktop
+1117,2024-01-09,Referral,Desktop
+1118,2024-07-07,Google Ads,Mobile
+1119,2024-01-28,Facebook Ads,Desktop
+1120,2024-01-13,Organic,Desktop
+1121,2024-07-16,Facebook Ads,Desktop
+1122,2024-10-07,Google Ads,Mobile
+1123,2024-06-27,Organic,Mobile
+1124,2024-05-29,Referral,Desktop
+1125,2024-04-05,Organic,Mobile
+1126,2024-03-13,Organic,Mobile
+1127,2024-01-09,Organic,Mobile
+1128,2024-02-17,Referral,Mobile
+1129,2024-02-11,Facebook Ads,Mobile
+1130,2024-01-28,Facebook Ads,Desktop
+1131,2024-04-25,Facebook Ads,Mobile
+1132,2024-03-02,Facebook Ads,Mobile
+1133,2024-01-08,Organic,Desktop
+1134,2024-01-23,Organic,Mobile
+1135,2024-04-13,Organic,Mobile
+1136,2024-01-08,Facebook Ads,Desktop
+1137,2024-06-20,Organic,Desktop
+1138,2024-03-02,Google Ads,Desktop
+1139,2024-02-28,Organic,Desktop
+1140,2024-03-21,Organic,Mobile
+1141,2024-06-05,Google Ads,Desktop
+1142,2024-02-08,Facebook Ads,Mobile
+1143,2024-04-11,Facebook Ads,Desktop
+1144,2024-03-16,Organic,Mobile
+1145,2024-01-28,Referral,Desktop
+1146,2024-07-08,Organic,Desktop
+1147,2024-05-23,Facebook Ads,Desktop
+1148,2024-04-06,Google Ads,Mobile
+1149,2024-06-20,Organic,Mobile
+1150,2024-06-30,Organic,Desktop
+1151,2024-04-20,Facebook Ads,Desktop
+1152,2024-06-12,Facebook Ads,Mobile
+1153,2024-04-17,Organic,Desktop
+1154,2024-04-12,Google Ads,Desktop
+1155,2024-03-27,Facebook Ads,Mobile
+1156,2024-05-05,Facebook Ads,Desktop
+1157,2024-01-16,Google Ads,Mobile
+1158,2024-07-10,Referral,Mobile
+1159,2024-07-03,Referral,Mobile
+1160,2024-01-03,Organic,Desktop
+1161,2024-06-06,Google Ads,Desktop
+1162,2024-01-13,Facebook Ads,Mobile
+1163,2024-02-06,Google Ads,Desktop
+1164,2024-05-02,Google Ads,Desktop
+1165,2024-01-16,Organic,Desktop
+1166,2024-06-02,Google Ads,Mobile
+1167,2024-06-09,Facebook Ads,Desktop
+1168,2024-03-04,Facebook Ads,Mobile
+1169,2024-01-01,Google Ads,Mobile
+1170,2024-01-31,Facebook Ads,Mobile
+1171,2024-03-27,Facebook Ads,Mobile
+1172,2024-12-23,Referral,Desktop
+1173,2024-03-30,Google Ads,Mobile
+1174,2024-01-28,Google Ads,Desktop
+1175,2024-03-31,Referral,Mobile
+1176,2024-03-10,Referral,Mobile
+1177,2024-05-16,Organic,Desktop
+1178,2024-01-11,Organic,Desktop
+1179,2024-05-08,Google Ads,Mobile
+1180,2024-03-11,Google Ads,Mobile
+1181,2024-10-23,Google Ads,Mobile
+1182,2024-02-07,Organic,Mobile
+1183,2024-03-31,Organic,Desktop
+1184,2024-08-29,Google Ads,Desktop
+1185,2024-01-10,Facebook Ads,Mobile
+1186,2024-09-06,Organic,Desktop
+1187,2024-04-14,Facebook Ads,Desktop
+1188,2024-01-07,Organic,Mobile
+1189,2024-02-02,Organic,Mobile
+1190,2024-04-20,Organic,Desktop
+1191,2024-01-07,Organic,Desktop
+1192,2024-03-19,Referral,Mobile
+1193,2024-02-08,Google Ads,Mobile
+1194,2024-03-28,Organic,Mobile
+1195,2024-01-05,Organic,Desktop
+1196,2024-07-03,Facebook Ads,Mobile
+1197,2024-11-22,Facebook Ads,Mobile
+1198,2024-11-08,Facebook Ads,Desktop
+1199,2024-05-04,Google Ads,Desktop
+1200,2024-01-13,Organic,Desktop
+1201,2024-05-07,Organic,Mobile
+1202,2024-01-03,Facebook Ads,Mobile
+1203,2024-01-03,Facebook Ads,Mobile
+1204,2024-02-05,Referral,Mobile
+1205,2024-03-01,Facebook Ads,Desktop
+1206,2024-05-12,Google Ads,Mobile
+1207,2024-04-13,Organic,Mobile
+1208,2024-02-23,Google Ads,Mobile
+1209,2024-01-29,Facebook Ads,Mobile
+1210,2025-06-10,Facebook Ads,Desktop
+1211,2024-02-19,Facebook Ads,Mobile
+1212,2024-02-24,Organic,Mobile
+1213,2024-01-17,Google Ads,Mobile
+1214,2024-05-22,Facebook Ads,Mobile
+1215,2024-04-16,Organic,Mobile
+1216,2024-01-23,Organic,Desktop
+1217,2024-01-08,Facebook Ads,Desktop
+1218,2024-04-12,Google Ads,Desktop
+1219,2024-04-05,Organic,Desktop
+1220,2024-01-29,Facebook Ads,Desktop
+1221,2024-09-28,Google Ads,Desktop
+1222,2024-01-15,Organic,Mobile
+1223,2024-02-20,Referral,Mobile
+1224,2024-09-15,Organic,Mobile
+1225,2024-02-18,Organic,Desktop
+1226,2024-04-01,Organic,Desktop
+1227,2024-02-15,Google Ads,Desktop
+1228,2024-01-29,Organic,Mobile
+1229,2025-01-07,Google Ads,Desktop
+1230,2024-02-17,Facebook Ads,Mobile
+1231,2024-07-21,Organic,Mobile
+1232,2024-01-24,Organic,Mobile
+1233,2024-01-22,Google Ads,Mobile
+1234,2024-01-03,Referral,Mobile
+1235,2024-04-04,Facebook Ads,Mobile
+1236,2024-02-11,Google Ads,Mobile
+1237,2024-06-28,Facebook Ads,Desktop
+1238,2024-02-27,Organic,Desktop
+1239,2024-11-06,Organic,Desktop
+1240,2024-01-19,Google Ads,Mobile
+1241,2024-07-01,Organic,Desktop
+1242,2024-05-14,Google Ads,Desktop
+1243,2024-05-12,Organic,Mobile
+1244,2024-06-16,Google Ads,Mobile
+1245,2024-05-08,Google Ads,Mobile
+1246,2024-03-29,Referral,Mobile
+1247,2024-01-13,Facebook Ads,Desktop
+1248,2024-01-03,Facebook Ads,Desktop
+1249,2024-08-16,Organic,Mobile
+1250,2024-03-27,Referral,Desktop
+1251,2024-05-23,Google Ads,Desktop
+1252,2024-02-29,Facebook Ads,Desktop
+1253,2024-01-12,Google Ads,Mobile
+1254,2024-01-13,Google Ads,Desktop
+1255,2024-04-14,Facebook Ads,Mobile
+1256,2024-02-20,Organic,Desktop
+1257,2024-01-21,Referral,Mobile
+1258,2024-03-01,Google Ads,Mobile
+1259,2024-01-06,Google Ads,Desktop
+1260,2024-03-19,Google Ads,Mobile
+1261,2024-01-29,Facebook Ads,Mobile
+1262,2024-05-23,Referral,Mobile
+1263,2024-02-03,Google Ads,Desktop
+1264,2024-02-24,Google Ads,Mobile
+1265,2024-01-02,Organic,Desktop
+1266,2024-01-07,Google Ads,Mobile
+1267,2024-02-14,Organic,Mobile
+1268,2024-02-28,Facebook Ads,Mobile
+1269,2024-03-23,Organic,Mobile
+1270,2024-02-01,Referral,Mobile
+1271,2024-04-16,Organic,Mobile
+1272,2024-06-26,Referral,Desktop
+1273,2024-05-16,Facebook Ads,Desktop
+1274,2024-01-04,Google Ads,Mobile
+1275,2024-02-28,Organic,Mobile
+1276,2024-01-10,Organic,Desktop
+1277,2024-01-25,Google Ads,Mobile
+1278,2025-01-23,Google Ads,Mobile
+1279,2024-01-14,Facebook Ads,Desktop
+1280,2024-03-03,Google Ads,Desktop
+1281,2024-03-27,Facebook Ads,Desktop
+1282,2024-04-19,Organic,Mobile
+1283,2024-03-14,Facebook Ads,Mobile
+1284,2024-01-01,Facebook Ads,Desktop
+1285,2024-02-05,Organic,Mobile
+1286,2024-03-06,Organic,Mobile
+1287,2024-01-09,Referral,Mobile
+1288,2024-02-08,Organic,Mobile
+1289,2024-01-04,Google Ads,Desktop
+1290,2024-01-08,Organic,Desktop
+1291,2024-02-15,Google Ads,Desktop
+1292,2024-01-13,Facebook Ads,Mobile
+1293,2024-03-16,Organic,Mobile
+1294,2024-04-15,Referral,Mobile
+1295,2024-05-25,Google Ads,Mobile
+1296,2024-01-21,Facebook Ads,Desktop
+1297,2024-01-17,Facebook Ads,Mobile
+1298,2024-01-10,Facebook Ads,Mobile
+1299,2024-04-01,Google Ads,Mobile
+1300,2024-04-20,Organic,Desktop
+1301,2024-01-03,Facebook Ads,Mobile
+1302,2024-09-04,Referral,Mobile
+1303,2024-01-05,Organic,Mobile
+1304,2024-03-11,Organic,Desktop
+1305,2024-04-21,Organic,Mobile
+1306,2024-07-03,Facebook Ads,Desktop
+1307,2024-04-22,Google Ads,Desktop
+1308,2024-05-25,Organic,Mobile
+1309,2024-02-07,Organic,Desktop
+1310,2024-05-31,Organic,Mobile
+1311,2024-01-08,Facebook Ads,Desktop
+1312,2024-07-21,Referral,Mobile
+1313,2024-03-12,Facebook Ads,Mobile
+1314,2024-06-01,Referral,Mobile
+1315,2024-02-24,Referral,Mobile
+1316,2024-04-02,Facebook Ads,Desktop
+1317,2024-03-08,Organic,Mobile
+1318,2024-04-28,Facebook Ads,Desktop
+1319,2024-01-08,Google Ads,Mobile
+1320,2024-01-06,Google Ads,Desktop
+1321,2024-01-26,Organic,Mobile
+1322,2024-01-16,Referral,Mobile
+1323,2024-07-03,Organic,Mobile
+1324,2024-01-23,Google Ads,Desktop
+1325,2024-12-01,Organic,Mobile
+1326,2024-02-06,Referral,Mobile
+1327,2024-01-19,Facebook Ads,Mobile
+1328,2024-05-20,Referral,Desktop
+1329,2024-04-06,Facebook Ads,Mobile
+1330,2024-03-03,Organic,Desktop
+1331,2024-03-13,Facebook Ads,Mobile
+1332,2024-04-24,Facebook Ads,Desktop
+1333,2024-01-24,Google Ads,Desktop
+1334,2025-05-19,Organic,Mobile
+1335,2024-11-27,Google Ads,Mobile
+1336,2024-04-04,Facebook Ads,Mobile
+1337,2024-01-21,Organic,Mobile
+1338,2024-04-12,Referral,Mobile
+1339,2024-01-07,Google Ads,Desktop
+1340,2024-01-03,Facebook Ads,Mobile
+1341,2024-01-27,Google Ads,Desktop
+1342,2024-02-25,Facebook Ads,Mobile
+1343,2024-07-01,Organic,Desktop
+1344,2024-04-26,Organic,Mobile
+1345,2024-05-02,Organic,Mobile
+1346,2024-02-19,Google Ads,Mobile
+1347,2024-02-08,Organic,Mobile
+1348,2024-02-11,Organic,Mobile
+1349,2025-01-30,Organic,Desktop
+1350,2024-01-04,Organic,Desktop
+1351,2024-06-30,Organic,Mobile
+1352,2024-03-18,Organic,Mobile
+1353,2024-02-21,Google Ads,Mobile
+1354,2024-04-26,Referral,Mobile
+1355,2024-03-01,Google Ads,Mobile
+1356,2024-07-05,Organic,Desktop
+1357,2024-07-26,Facebook Ads,Desktop
+1358,2024-02-19,Organic,Desktop
+1359,2024-01-30,Organic,Mobile
+1360,2024-03-21,Facebook Ads,Desktop
+1361,2024-08-07,Facebook Ads,Desktop
+1362,2024-01-22,Organic,Mobile
+1363,2024-03-28,Organic,Mobile
+1364,2024-03-30,Google Ads,Desktop
+1365,2024-04-28,Facebook Ads,Mobile
+1366,2024-01-13,Organic,Mobile
+1367,2024-04-23,Facebook Ads,Mobile
+1368,2024-08-03,Google Ads,Desktop
+1369,2024-01-18,Facebook Ads,Mobile
+1370,2024-01-25,Facebook Ads,Desktop
+1371,2024-11-15,Facebook Ads,Desktop
+1372,2024-01-18,Google Ads,Desktop
+1373,2024-06-22,Facebook Ads,Mobile
+1374,2024-03-02,Google Ads,Desktop
+1375,2024-01-26,Google Ads,Mobile
+1376,2024-07-03,Google Ads,Mobile
+1377,2024-02-23,Google Ads,Mobile
+1378,2024-03-06,Organic,Mobile
+1379,2024-02-10,Facebook Ads,Desktop
+1380,2024-03-21,Google Ads,Mobile
+1381,2024-01-17,Facebook Ads,Mobile
+1382,2024-02-14,Facebook Ads,Mobile
+1383,2024-11-09,Organic,Desktop
+1384,2024-01-27,Organic,Desktop
+1385,2024-04-06,Referral,Desktop
+1386,2024-02-05,Organic,Mobile
+1387,2024-05-13,Referral,Mobile
+1388,2024-01-13,Facebook Ads,Desktop
+1389,2024-11-11,Facebook Ads,Mobile
+1390,2024-02-24,Facebook Ads,Mobile
+1391,2024-01-25,Facebook Ads,Desktop
+1392,2024-01-07,Google Ads,Mobile
+1393,2024-01-17,Organic,Desktop
+1394,2024-03-07,Facebook Ads,Mobile
+1395,2024-02-06,Referral,Mobile
+1396,2024-06-07,Organic,Mobile
+1397,2024-02-20,Facebook Ads,Mobile
+1398,2024-01-26,Facebook Ads,Desktop
+1399,2024-03-27,Facebook Ads,Desktop
+1400,2024-04-20,Facebook Ads,Mobile
+1401,2024-01-17,Facebook Ads,Mobile
+1402,2024-01-17,Google Ads,Desktop
+1403,2024-01-04,Facebook Ads,Desktop
+1404,2024-04-29,Google Ads,Mobile
+1405,2024-04-08,Referral,Mobile
+1406,2024-02-27,Organic,Mobile
+1407,2024-06-16,Referral,Desktop
+1408,2024-05-27,Facebook Ads,Desktop
+1409,2024-03-20,Google Ads,Mobile
+1410,2024-07-01,Organic,Desktop
+1411,2024-01-21,Facebook Ads,Mobile
+1412,2024-01-11,Facebook Ads,Mobile
+1413,2024-01-29,Organic,Mobile
+1414,2024-01-06,Organic,Desktop
+1415,2024-03-09,Google Ads,Mobile
+1416,2024-09-05,Google Ads,Mobile
+1417,2024-01-04,Google Ads,Mobile
+1418,2024-01-12,Facebook Ads,Mobile
+1419,2024-02-24,Google Ads,Mobile
+1420,2024-09-01,Facebook Ads,Desktop
+1421,2024-02-04,Facebook Ads,Mobile
+1422,2024-03-04,Referral,Desktop
+1423,2024-01-04,Organic,Mobile
+1424,2024-01-15,Organic,Mobile
+1425,2025-01-23,Google Ads,Mobile
+1426,2024-10-29,Google Ads,Mobile
+1427,2024-01-01,Facebook Ads,Mobile
+1428,2024-09-29,Facebook Ads,Mobile
+1429,2024-04-01,Facebook Ads,Desktop
+1430,2024-07-01,Organic,Desktop
+1431,2024-02-24,Organic,Mobile
+1432,2024-03-06,Google Ads,Mobile
+1433,2024-03-01,Google Ads,Mobile
+1434,2024-04-08,Referral,Mobile
+1435,2024-01-14,Facebook Ads,Mobile
+1436,2024-01-03,Facebook Ads,Desktop
+1437,2024-02-03,Google Ads,Mobile
+1438,2024-04-19,Organic,Mobile
+1439,2024-01-21,Referral,Mobile
+1440,2024-04-10,Facebook Ads,Mobile
+1441,2024-11-11,Referral,Desktop
+1442,2024-01-09,Organic,Mobile
+1443,2024-04-10,Facebook Ads,Mobile
+1444,2024-02-22,Google Ads,Desktop
+1445,2024-07-01,Google Ads,Mobile
+1446,2024-01-18,Referral,Desktop
+1447,2024-04-16,Facebook Ads,Desktop
+1448,2024-06-12,Organic,Mobile
+1449,2024-09-17,Google Ads,Desktop
+1450,2024-04-13,Organic,Mobile
+1451,2024-03-02,Google Ads,Mobile
+1452,2024-03-27,Organic,Mobile
+1453,2024-07-01,Organic,Mobile
+1454,2024-03-17,Organic,Desktop
+1455,2024-01-03,Referral,Desktop
+1456,2024-08-28,Facebook Ads,Desktop
+1457,2024-04-15,Organic,Desktop
+1458,2024-04-11,Facebook Ads,Mobile
+1459,2024-01-22,Google Ads,Mobile
+1460,2024-04-06,Google Ads,Mobile
+1461,2024-02-15,Google Ads,Mobile
+1462,2024-04-04,Google Ads,Mobile
+1463,2024-01-11,Referral,Desktop
+1464,2024-04-06,Facebook Ads,Mobile
+1465,2025-10-31,Organic,Mobile
+1466,2024-01-05,Google Ads,Mobile
+1467,2024-12-06,Facebook Ads,Desktop
+1468,2024-02-17,Facebook Ads,Desktop
+1469,2024-07-03,Referral,Desktop
+1470,2024-05-17,Referral,Mobile
+1471,2024-03-16,Referral,Desktop
+1472,2024-04-30,Referral,Mobile
+1473,2024-07-08,Facebook Ads,Desktop
+1474,2024-02-16,Google Ads,Mobile
+1475,2024-02-05,Organic,Mobile
+1476,2024-04-09,Google Ads,Mobile
+1477,2024-05-28,Google Ads,Desktop
+1478,2024-05-09,Google Ads,Mobile
+1479,2024-05-23,Organic,Desktop
+1480,2024-02-21,Organic,Mobile
+1481,2024-06-02,Facebook Ads,Mobile
+1482,2024-01-12,Google Ads,Mobile
+1483,2024-03-11,Organic,Mobile
+1484,2024-01-01,Organic,Mobile
+1485,2024-02-05,Facebook Ads,Mobile
+1486,2024-02-11,Organic,Desktop
+1487,2024-02-15,Facebook Ads,Mobile
+1488,2024-04-17,Google Ads,Desktop
+1489,2024-02-14,Organic,Desktop
+1490,2024-02-23,Organic,Desktop
+1491,2024-01-25,Facebook Ads,Mobile
+1492,2024-02-12,Organic,Mobile
+1493,2024-01-24,Organic,Mobile
+1494,2024-01-07,Organic,Desktop
+1495,2024-03-24,Organic,Desktop
+1496,2024-04-09,Organic,Mobile
+1497,2024-03-27,Google Ads,Mobile
+1498,2024-02-26,Facebook Ads,Desktop
+1499,2024-02-12,Facebook Ads,Mobile
+1500,2024-06-28,Google Ads,Desktop
+1501,2024-03-06,Organic,Mobile
+1502,2024-02-28,Google Ads,Desktop
+1503,2024-01-03,Facebook Ads,Mobile
+1504,2024-02-07,Facebook Ads,Mobile
+1505,2024-02-13,Google Ads,Desktop
+1506,2024-02-15,Facebook Ads,Desktop
+1507,2024-03-19,Organic,Mobile
+1508,2024-03-09,Facebook Ads,Mobile
+1509,2024-03-25,Organic,Desktop
+1510,2024-05-10,Referral,Desktop
+1511,2024-05-30,Facebook Ads,Desktop
+1512,2024-04-23,Google Ads,Desktop
+1513,2024-10-07,Facebook Ads,Mobile
+1514,2024-01-02,Organic,Mobile
+1515,2024-01-20,Organic,Desktop
+1516,2024-01-01,Google Ads,Desktop
+1517,2024-04-03,Google Ads,Mobile
+1518,2024-07-24,Referral,Mobile
+1519,2024-01-26,Facebook Ads,Desktop
+1520,2024-08-23,Facebook Ads,Mobile
+1521,2024-01-06,Referral,Mobile
+1522,2024-09-02,Organic,Mobile
+1523,2024-02-08,Referral,Desktop
+1524,2024-01-10,Organic,Desktop
+1525,2024-02-29,Organic,Mobile
+1526,2024-01-27,Google Ads,Desktop
+1527,2024-01-31,Organic,Desktop
+1528,2024-02-03,Referral,Mobile
+1529,2024-05-26,Organic,Desktop
+1530,2024-03-10,Facebook Ads,Mobile
+1531,2024-02-03,Facebook Ads,Mobile
+1532,2024-03-25,Facebook Ads,Mobile
+1533,2024-04-23,Facebook Ads,Mobile
+1534,2024-01-29,Google Ads,Mobile
+1535,2024-02-18,Organic,Desktop
+1536,2024-01-12,Organic,Desktop
+1537,2024-01-18,Google Ads,Desktop
+1538,2024-04-12,Organic,Mobile
+1539,2024-01-19,Facebook Ads,Mobile
+1540,2024-03-08,Facebook Ads,Mobile
+1541,2024-04-21,Facebook Ads,Mobile
+1542,2024-01-11,Google Ads,Mobile
+1543,2024-03-16,Facebook Ads,Desktop
+1544,2024-01-27,Facebook Ads,Desktop
+1545,2024-10-23,Google Ads,Mobile
+1546,2024-02-29,Organic,Mobile
+1547,2024-05-27,Facebook Ads,Desktop
+1548,2024-03-12,Organic,Mobile
+1549,2024-01-04,Organic,Desktop
+1550,2024-03-31,Organic,Desktop
+1551,2024-09-29,Referral,Desktop
+1552,2024-03-23,Facebook Ads,Mobile
+1553,2024-06-02,Facebook Ads,Desktop
+1554,2024-07-13,Referral,Mobile
+1555,2024-01-24,Google Ads,Desktop
+1556,2024-01-22,Organic,Mobile
+1557,2024-03-25,Organic,Mobile
+1558,2024-02-17,Organic,Mobile
+1559,2024-06-13,Referral,Mobile
+1560,2024-07-26,Referral,Desktop
+1561,2024-02-09,Organic,Desktop
+1562,2024-01-25,Facebook Ads,Desktop
+1563,2024-05-16,Referral,Mobile
+1564,2024-01-29,Facebook Ads,Desktop
+1565,2024-06-04,Facebook Ads,Mobile
+1566,2024-02-19,Referral,Desktop
+1567,2024-04-09,Facebook Ads,Desktop
+1568,2024-01-10,Facebook Ads,Mobile
+1569,2024-03-29,Facebook Ads,Desktop
+1570,2024-02-24,Referral,Mobile
+1571,2024-03-20,Google Ads,Mobile
+1572,2024-01-17,Organic,Mobile
+1573,2024-04-30,Facebook Ads,Mobile
+1574,2024-06-27,Organic,Desktop
+1575,2024-01-22,Organic,Mobile
+1576,2024-01-10,Google Ads,Mobile
+1577,2024-01-03,Google Ads,Desktop
+1578,2024-04-02,Facebook Ads,Desktop
+1579,2024-03-25,Referral,Desktop
+1580,2024-03-12,Organic,Desktop
+1581,2024-01-24,Referral,Desktop
+1582,2024-02-14,Google Ads,Mobile
+1583,2024-03-22,Organic,Mobile
+1584,2024-03-02,Organic,Mobile
+1585,2025-01-31,Organic,Mobile
+1586,2024-01-14,Referral,Desktop
+1587,2024-04-16,Google Ads,Mobile
+1588,2024-02-16,Facebook Ads,Desktop
+1589,2024-02-20,Organic,Mobile
+1590,2024-04-23,Organic,Mobile
+1591,2024-04-16,Organic,Mobile
+1592,2025-03-02,Facebook Ads,Desktop
+1593,2024-01-13,Google Ads,Desktop
+1594,2024-01-10,Google Ads,Desktop
+1595,2024-04-25,Google Ads,Mobile
+1596,2024-03-18,Organic,Desktop
+1597,2024-01-29,Organic,Mobile
+1598,2024-01-08,Facebook Ads,Mobile
+1599,2024-01-09,Google Ads,Desktop
+1600,2024-07-21,Facebook Ads,Mobile
+1601,2024-01-20,Facebook Ads,Desktop
+1602,2024-02-05,Organic,Mobile
+1603,2024-01-24,Referral,Desktop
+1604,2024-02-09,Google Ads,Desktop
+1605,2024-01-07,Organic,Mobile
+1606,2024-03-06,Referral,Desktop
+1607,2024-01-07,Organic,Mobile
+1608,2024-05-25,Facebook Ads,Desktop
+1609,2024-01-24,Referral,Mobile
+1610,2024-03-10,Google Ads,Mobile
+1611,2024-07-09,Google Ads,Mobile
+1612,2024-04-04,Facebook Ads,Mobile
+1613,2024-03-09,Google Ads,Desktop
+1614,2024-02-05,Facebook Ads,Mobile
+1615,2024-02-06,Facebook Ads,Mobile
+1616,2024-04-09,Google Ads,Mobile
+1617,2025-04-07,Organic,Mobile
+1618,2024-04-07,Referral,Desktop
+1619,2024-03-14,Google Ads,Desktop
+1620,2024-04-28,Referral,Mobile
+1621,2024-02-26,Referral,Desktop
+1622,2024-01-06,Organic,Desktop
+1623,2024-03-15,Facebook Ads,Mobile
+1624,2024-10-11,Organic,Desktop
+1625,2024-01-18,Referral,Mobile
+1626,2024-04-15,Organic,Desktop
+1627,2024-01-21,Google Ads,Desktop
+1628,2024-03-10,Google Ads,Mobile
+1629,2024-01-10,Organic,Desktop
+1630,2024-02-23,Google Ads,Desktop
+1631,2024-05-07,Facebook Ads,Mobile
+1632,2024-02-08,Google Ads,Desktop
+1633,2024-04-08,Organic,Mobile
+1634,2024-05-22,Referral,Desktop
+1635,2024-08-23,Facebook Ads,Desktop
+1636,2024-01-25,Referral,Mobile
+1637,2024-02-15,Google Ads,Mobile
+1638,2024-01-15,Organic,Desktop
+1639,2025-03-16,Organic,Mobile
+1640,2024-08-23,Organic,Mobile
+1641,2024-03-10,Referral,Mobile
+1642,2024-06-15,Google Ads,Mobile
+1643,2024-03-07,Referral,Mobile
+1644,2024-03-28,Facebook Ads,Mobile
+1645,2024-01-09,Organic,Mobile
+1646,2024-05-06,Organic,Desktop
+1647,2024-01-13,Organic,Mobile
+1648,2024-06-06,Facebook Ads,Mobile
+1649,2024-05-17,Referral,Mobile
+1650,2024-04-21,Facebook Ads,Desktop
+1651,2024-01-04,Facebook Ads,Mobile
+1652,2024-02-02,Organic,Mobile
+1653,2024-01-28,Google Ads,Mobile
+1654,2024-02-10,Organic,Desktop
+1655,2024-01-09,Google Ads,Desktop
+1656,2024-09-05,Facebook Ads,Desktop
+1657,2024-03-13,Organic,Desktop
+1658,2024-02-02,Google Ads,Desktop
+1659,2024-02-15,Facebook Ads,Mobile
+1660,2024-02-23,Organic,Desktop
+1661,2024-03-23,Google Ads,Mobile
+1662,2024-03-06,Organic,Desktop
+1663,2024-08-14,Google Ads,Desktop
+1664,2024-03-02,Organic,Mobile
+1665,2025-03-12,Organic,Mobile
+1666,2024-06-20,Organic,Mobile
+1667,2024-01-22,Facebook Ads,Desktop
+1668,2024-08-28,Organic,Desktop
+1669,2024-01-12,Organic,Desktop
+1670,2024-06-02,Organic,Mobile
+1671,2024-02-13,Google Ads,Desktop
+1672,2024-07-08,Referral,Desktop
+1673,2024-07-01,Organic,Desktop
+1674,2024-05-27,Facebook Ads,Mobile
+1675,2024-05-20,Google Ads,Mobile
+1676,2024-02-02,Referral,Desktop
+1677,2024-01-08,Facebook Ads,Desktop
+1678,2024-02-16,Referral,Desktop
+1679,2024-01-18,Organic,Mobile
+1680,2024-04-16,Organic,Mobile
+1681,2024-02-08,Facebook Ads,Desktop
+1682,2024-11-30,Facebook Ads,Mobile
+1683,2024-04-02,Referral,Desktop
+1684,2024-06-04,Facebook Ads,Mobile
+1685,2024-01-13,Organic,Mobile
+1686,2024-06-27,Google Ads,Desktop
+1687,2024-08-18,Facebook Ads,Desktop
+1688,2024-03-01,Facebook Ads,Mobile
+1689,2024-03-24,Google Ads,Mobile
+1690,2024-05-10,Referral,Desktop
+1691,2024-01-18,Google Ads,Mobile
+1692,2024-03-03,Google Ads,Desktop
+1693,2024-02-15,Google Ads,Mobile
+1694,2024-01-15,Google Ads,Desktop
+1695,2024-02-11,Google Ads,Desktop
+1696,2024-01-07,Referral,Desktop
+1697,2024-01-03,Google Ads,Mobile
+1698,2024-01-14,Google Ads,Desktop
+1699,2024-10-23,Facebook Ads,Mobile
+1700,2024-03-12,Referral,Mobile
+1701,2024-10-30,Facebook Ads,Desktop
+1702,2024-02-20,Facebook Ads,Desktop
+1703,2024-02-03,Organic,Desktop
+1704,2024-03-04,Organic,Mobile
+1705,2024-02-22,Google Ads,Mobile
+1706,2024-01-11,Google Ads,Mobile
+1707,2024-04-02,Organic,Desktop
+1708,2024-01-22,Facebook Ads,Desktop
+1709,2024-03-27,Organic,Mobile
+1710,2024-04-04,Organic,Desktop
+1711,2024-01-15,Google Ads,Mobile
+1712,2024-01-06,Google Ads,Mobile
+1713,2024-05-16,Facebook Ads,Mobile
+1714,2024-02-25,Organic,Mobile
+1715,2024-01-06,Google Ads,Mobile
+1716,2025-04-19,Google Ads,Desktop
+1717,2024-01-06,Organic,Mobile
+1718,2024-04-16,Referral,Desktop
+1719,2025-01-05,Google Ads,Mobile
+1720,2024-01-25,Referral,Desktop
+1721,2024-01-14,Google Ads,Desktop
+1722,2024-01-12,Facebook Ads,Desktop
+1723,2024-02-02,Facebook Ads,Mobile
+1724,2024-01-10,Google Ads,Desktop
+1725,2024-04-16,Facebook Ads,Desktop
+1726,2024-01-06,Facebook Ads,Mobile
+1727,2024-03-05,Referral,Mobile
+1728,2025-05-29,Organic,Mobile
+1729,2024-05-31,Organic,Desktop
+1730,2024-03-26,Facebook Ads,Mobile
+1731,2024-02-02,Facebook Ads,Mobile
+1732,2024-03-29,Facebook Ads,Mobile
+1733,2024-03-08,Organic,Mobile
+1734,2024-02-19,Referral,Desktop
+1735,2024-01-13,Google Ads,Mobile
+1736,2024-07-14,Facebook Ads,Desktop
+1737,2024-02-23,Google Ads,Desktop
+1738,2024-01-20,Google Ads,Mobile
+1739,2024-02-11,Google Ads,Desktop
+1740,2024-02-18,Organic,Mobile
+1741,2024-06-07,Organic,Desktop
+1742,2024-04-29,Facebook Ads,Mobile
+1743,2024-05-11,Facebook Ads,Desktop
+1744,2024-01-01,Referral,Mobile
+1745,2024-02-18,Facebook Ads,Mobile
+1746,2024-02-29,Facebook Ads,Desktop
+1747,2024-01-02,Facebook Ads,Mobile
+1748,2024-01-28,Facebook Ads,Desktop
+1749,2024-05-08,Google Ads,Mobile
+1750,2024-01-14,Organic,Desktop
+1751,2024-03-09,Google Ads,Mobile
+1752,2024-01-22,Google Ads,Desktop
+1753,2024-01-02,Organic,Mobile
+1754,2024-01-25,Google Ads,Mobile
+1755,2024-12-01,Referral,Mobile
+1756,2024-05-25,Referral,Desktop
+1757,2024-10-15,Facebook Ads,Mobile
+1758,2024-03-01,Organic,Desktop
+1759,2024-01-11,Google Ads,Desktop
+1760,2024-03-12,Referral,Mobile
+1761,2024-02-24,Google Ads,Desktop
+1762,2024-06-16,Referral,Mobile
+1763,2024-01-10,Organic,Mobile
+1764,2024-03-01,Facebook Ads,Desktop
+1765,2024-01-15,Google Ads,Desktop
+1766,2024-02-05,Referral,Desktop
+1767,2024-04-30,Referral,Mobile
+1768,2024-02-28,Facebook Ads,Mobile
+1769,2024-02-12,Organic,Mobile
+1770,2024-02-15,Google Ads,Desktop
+1771,2024-02-25,Facebook Ads,Mobile
+1772,2024-05-18,Google Ads,Desktop
+1773,2024-07-19,Facebook Ads,Mobile
+1774,2024-10-06,Organic,Mobile
+1775,2024-05-19,Google Ads,Mobile
+1776,2024-02-04,Organic,Mobile
+1777,2024-04-14,Facebook Ads,Mobile
+1778,2024-02-21,Google Ads,Desktop
+1779,2024-01-27,Facebook Ads,Desktop
+1780,2024-06-14,Facebook Ads,Mobile
+1781,2024-01-04,Facebook Ads,Mobile
+1782,2024-07-27,Facebook Ads,Mobile
+1783,2024-02-25,Organic,Desktop
+1784,2024-04-01,Facebook Ads,Mobile
+1785,2024-04-06,Google Ads,Desktop
+1786,2024-07-21,Google Ads,Mobile
+1787,2024-04-01,Referral,Mobile
+1788,2024-03-26,Referral,Desktop
+1789,2024-01-07,Google Ads,Mobile
+1790,2024-03-06,Google Ads,Desktop
+1791,2024-01-15,Facebook Ads,Mobile
+1792,2024-04-30,Referral,Mobile
+1793,2024-03-05,Facebook Ads,Mobile
+1794,2024-04-12,Facebook Ads,Desktop
+1795,2024-01-04,Facebook Ads,Desktop
+1796,2024-01-08,Google Ads,Mobile
+1797,2024-04-23,Facebook Ads,Desktop
+1798,2024-01-07,Organic,Mobile
+1799,2024-01-07,Facebook Ads,Mobile
+1800,2024-01-02,Organic,Mobile
+1801,2024-10-09,Facebook Ads,Mobile
+1802,2024-04-30,Facebook Ads,Mobile
+1803,2024-02-09,Referral,Desktop
+1804,2024-02-01,Facebook Ads,Mobile
+1805,2024-02-08,Organic,Mobile
+1806,2024-05-14,Google Ads,Mobile
+1807,2024-04-07,Facebook Ads,Desktop
+1808,2024-01-19,Referral,Desktop
+1809,2024-01-18,Facebook Ads,Mobile
+1810,2024-01-10,Referral,Mobile
+1811,2024-04-07,Facebook Ads,Mobile
+1812,2024-05-10,Referral,Mobile
+1813,2024-01-28,Facebook Ads,Mobile
+1814,2024-01-02,Google Ads,Mobile
+1815,2024-01-08,Organic,Mobile
+1816,2024-11-05,Referral,Mobile
+1817,2024-02-01,Referral,Mobile
+1818,2024-05-11,Organic,Desktop
+1819,2024-03-29,Referral,Desktop
+1820,2024-02-13,Facebook Ads,Desktop
+1821,2024-01-21,Facebook Ads,Mobile
+1822,2024-01-12,Facebook Ads,Mobile
+1823,2024-03-26,Google Ads,Mobile
+1824,2024-05-14,Google Ads,Desktop
+1825,2024-04-02,Google Ads,Mobile
+1826,2024-03-09,Facebook Ads,Desktop
+1827,2024-01-04,Organic,Desktop
+1828,2024-11-07,Facebook Ads,Mobile
+1829,2024-05-24,Google Ads,Desktop
+1830,2024-02-01,Google Ads,Mobile
+1831,2024-12-17,Organic,Mobile
+1832,2024-03-23,Organic,Mobile
+1833,2024-03-19,Organic,Mobile
+1834,2024-05-04,Facebook Ads,Desktop
+1835,2024-05-30,Google Ads,Mobile
+1836,2024-04-06,Facebook Ads,Mobile
+1837,2024-01-13,Google Ads,Desktop
+1838,2024-02-07,Google Ads,Desktop
+1839,2024-08-24,Facebook Ads,Mobile
+1840,2024-01-23,Facebook Ads,Desktop
+1841,2024-02-11,Referral,Desktop
+1842,2024-02-20,Referral,Mobile
+1843,2024-02-22,Google Ads,Mobile
+1844,2024-03-26,Facebook Ads,Mobile
+1845,2024-09-14,Facebook Ads,Desktop
+1846,2024-01-25,Google Ads,Desktop
+1847,2024-01-12,Referral,Desktop
+1848,2024-01-20,Facebook Ads,Mobile
+1849,2024-07-15,Organic,Mobile
+1850,2024-04-03,Facebook Ads,Mobile
+1851,2024-01-31,Referral,Mobile
+1852,2024-06-01,Google Ads,Desktop
+1853,2024-06-26,Organic,Desktop
+1854,2024-06-17,Google Ads,Mobile
+1855,2024-08-14,Organic,Mobile
+1856,2024-01-27,Facebook Ads,Mobile
+1857,2024-05-06,Facebook Ads,Mobile
+1858,2024-02-25,Referral,Mobile
+1859,2024-06-15,Referral,Mobile
+1860,2024-04-27,Referral,Mobile
+1861,2024-05-14,Organic,Mobile
+1862,2024-04-06,Organic,Mobile
+1863,2024-01-18,Facebook Ads,Mobile
+1864,2024-03-11,Google Ads,Desktop
+1865,2025-01-11,Google Ads,Mobile
+1866,2024-09-06,Organic,Desktop
+1867,2024-01-04,Google Ads,Mobile
+1868,2024-01-17,Facebook Ads,Mobile
+1869,2024-01-13,Organic,Mobile
+1870,2024-04-26,Organic,Mobile
+1871,2024-06-02,Google Ads,Desktop
+1872,2024-01-22,Facebook Ads,Mobile
+1873,2024-03-04,Facebook Ads,Desktop
+1874,2024-06-14,Facebook Ads,Desktop
+1875,2024-04-28,Facebook Ads,Mobile
+1876,2024-03-11,Organic,Mobile
+1877,2024-03-21,Organic,Desktop
+1878,2024-03-04,Organic,Mobile
+1879,2024-02-01,Google Ads,Desktop
+1880,2024-03-15,Organic,Mobile
+1881,2024-04-15,Facebook Ads,Mobile
+1882,2024-07-04,Google Ads,Mobile
+1883,2024-04-01,Organic,Mobile
+1884,2024-05-08,Facebook Ads,Desktop
+1885,2024-01-16,Facebook Ads,Mobile
+1886,2024-02-25,Referral,Desktop
+1887,2024-01-01,Google Ads,Mobile
+1888,2024-01-26,Organic,Mobile
+1889,2024-04-26,Facebook Ads,Mobile
+1890,2025-03-08,Organic,Mobile
+1891,2024-01-10,Google Ads,Mobile
+1892,2024-02-16,Facebook Ads,Mobile
+1893,2024-05-24,Organic,Desktop
+1894,2024-01-21,Facebook Ads,Mobile
+1895,2024-03-13,Google Ads,Mobile
+1896,2024-04-28,Facebook Ads,Desktop
+1897,2024-03-27,Facebook Ads,Desktop
+1898,2024-01-19,Facebook Ads,Mobile
+1899,2024-02-09,Facebook Ads,Mobile
+1900,2024-05-17,Referral,Desktop
+1901,2024-03-13,Facebook Ads,Desktop
+1902,2024-01-01,Google Ads,Mobile
+1903,2024-05-08,Facebook Ads,Mobile
+1904,2024-01-04,Google Ads,Desktop
+1905,2024-05-03,Referral,Mobile
+1906,2024-01-21,Facebook Ads,Desktop
+1907,2024-10-12,Referral,Mobile
+1908,2024-02-11,Facebook Ads,Desktop
+1909,2024-02-05,Organic,Mobile
+1910,2024-01-15,Google Ads,Mobile
+1911,2024-02-02,Referral,Desktop
+1912,2024-07-07,Organic,Mobile
+1913,2025-05-19,Google Ads,Mobile
+1914,2024-02-11,Facebook Ads,Mobile
+1915,2024-02-23,Facebook Ads,Mobile
+1916,2024-04-25,Referral,Mobile
+1917,2024-07-14,Google Ads,Desktop
+1918,2024-03-21,Google Ads,Mobile
+1919,2024-02-14,Organic,Mobile
+1920,2024-02-17,Google Ads,Mobile
+1921,2024-04-17,Referral,Desktop
+1922,2024-01-01,Organic,Desktop
+1923,2024-03-27,Organic,Mobile
+1924,2024-02-09,Referral,Mobile
+1925,2024-05-22,Facebook Ads,Desktop
+1926,2024-01-09,Facebook Ads,Mobile
+1927,2024-03-20,Google Ads,Desktop
+1928,2024-02-29,Facebook Ads,Desktop
+1929,2024-04-02,Organic,Desktop
+1930,2024-01-07,Referral,Mobile
+1931,2024-03-19,Google Ads,Desktop
+1932,2024-03-15,Google Ads,Desktop
+1933,2024-03-15,Referral,Desktop
+1934,2024-03-24,Google Ads,Mobile
+1935,2024-04-11,Google Ads,Mobile
+1936,2024-05-27,Google Ads,Mobile
+1937,2024-01-29,Referral,Mobile
+1938,2024-06-05,Organic,Desktop
+1939,2024-03-03,Organic,Mobile
+1940,2024-01-08,Organic,Mobile
+1941,2024-01-06,Google Ads,Mobile
+1942,2024-02-06,Google Ads,Desktop
+1943,2024-05-18,Organic,Desktop
+1944,2024-04-20,Google Ads,Mobile
+1945,2024-05-19,Organic,Mobile
+1946,2024-03-06,Referral,Mobile
+1947,2024-02-22,Organic,Desktop
+1948,2024-01-15,Organic,Desktop
+1949,2024-02-05,Organic,Desktop
+1950,2024-02-21,Organic,Mobile
+1951,2024-01-09,Google Ads,Desktop
+1952,2024-01-23,Facebook Ads,Mobile
+1953,2024-03-23,Google Ads,Desktop
+1954,2024-04-29,Organic,Mobile
+1955,2025-07-30,Google Ads,Desktop
+1956,2024-08-31,Organic,Mobile
+1957,2024-04-02,Google Ads,Desktop
+1958,2024-02-19,Organic,Desktop
+1959,2024-03-31,Facebook Ads,Mobile
+1960,2024-05-18,Organic,Mobile
+1961,2024-01-12,Google Ads,Desktop
+1962,2024-02-17,Facebook Ads,Mobile
+1963,2024-06-13,Facebook Ads,Mobile
+1964,2024-02-13,Organic,Mobile
+1965,2024-03-17,Google Ads,Desktop
+1966,2024-03-20,Facebook Ads,Mobile
+1967,2024-01-19,Referral,Mobile
+1968,2024-02-10,Organic,Mobile
+1969,2024-02-06,Referral,Mobile
+1970,2024-01-03,Google Ads,Desktop
+1971,2024-01-03,Google Ads,Desktop
+1972,2024-06-09,Referral,Desktop
+1973,2024-01-29,Google Ads,Mobile
+1974,2024-03-06,Organic,Desktop
+1975,2024-02-01,Facebook Ads,Mobile
+1976,2024-09-11,Google Ads,Mobile
+1977,2024-01-28,Facebook Ads,Desktop
+1978,2024-02-20,Facebook Ads,Desktop
+1979,2024-07-04,Facebook Ads,Desktop
+1980,2024-06-15,Facebook Ads,Desktop
+1981,2024-01-19,Referral,Mobile
+1982,2024-05-26,Facebook Ads,Mobile
+1983,2024-02-25,Organic,Desktop
+1984,2024-02-29,Organic,Mobile
+1985,2024-01-13,Organic,Mobile
+1986,2024-01-08,Facebook Ads,Desktop
+1987,2024-04-27,Organic,Desktop
+1988,2024-03-02,Organic,Mobile
+1989,2024-02-21,Organic,Desktop
+1990,2024-04-27,Organic,Desktop
+1991,2024-05-10,Referral,Desktop
+1992,2024-01-16,Organic,Mobile
+1993,2024-03-25,Google Ads,Mobile
+1994,2024-01-14,Organic,Mobile
+1995,2024-05-05,Facebook Ads,Mobile
+1996,2024-04-06,Referral,Mobile
+1997,2024-10-09,Facebook Ads,Mobile
+1998,2024-01-07,Google Ads,Mobile
+1999,2024-01-06,Organic,Desktop
+2000,2024-01-30,Organic,Mobile
+2001,2024-01-28,Google Ads,Desktop
+2002,2024-01-26,Google Ads,Desktop
+2003,2024-08-01,Referral,Mobile
+2004,2024-01-26,Google Ads,Desktop
+2005,2024-01-29,Referral,Desktop
+2006,2024-05-08,Facebook Ads,Mobile
+2007,2024-02-23,Organic,Desktop
+2008,2024-05-14,Organic,Mobile
+2009,2024-01-07,Facebook Ads,Desktop
+2010,2024-03-01,Google Ads,Mobile
+2011,2024-01-04,Facebook Ads,Desktop
+2012,2024-01-06,Organic,Mobile
+2013,2024-08-01,Google Ads,Desktop
+2014,2024-01-14,Organic,Mobile
+2015,2024-03-09,Facebook Ads,Desktop
+2016,2024-02-17,Facebook Ads,Desktop
+2017,2024-02-08,Facebook Ads,Mobile
+2018,2024-07-26,Google Ads,Desktop
+2019,2024-01-02,Organic,Mobile
+2020,2024-04-08,Referral,Desktop
+2021,2024-10-24,Organic,Mobile
+2022,2024-03-14,Google Ads,Desktop
+2023,2024-09-05,Referral,Desktop
+2024,2024-01-05,Organic,Mobile
+2025,2024-02-18,Referral,Mobile
+2026,2024-01-28,Google Ads,Mobile
+2027,2024-04-28,Facebook Ads,Desktop
+2028,2024-12-24,Facebook Ads,Mobile
+2029,2024-01-27,Organic,Mobile
+2030,2024-04-05,Facebook Ads,Desktop
+2031,2024-01-20,Google Ads,Mobile
+2032,2024-03-15,Google Ads,Desktop
+2033,2024-02-26,Organic,Mobile
+2034,2024-11-17,Organic,Mobile
+2035,2024-03-25,Facebook Ads,Desktop
+2036,2024-02-08,Google Ads,Mobile
+2037,2024-01-11,Organic,Mobile
+2038,2024-01-15,Referral,Desktop
+2039,2024-01-23,Organic,Mobile
+2040,2024-01-27,Referral,Desktop
+2041,2024-06-20,Organic,Desktop
+2042,2024-03-15,Organic,Mobile
+2043,2024-03-07,Facebook Ads,Mobile
+2044,2024-01-11,Organic,Desktop
+2045,2024-06-26,Organic,Mobile
+2046,2024-04-25,Organic,Mobile
+2047,2024-01-07,Google Ads,Desktop
+2048,2024-04-20,Google Ads,Mobile
+2049,2024-03-11,Google Ads,Desktop
+2050,2024-01-08,Google Ads,Mobile
+2051,2024-02-25,Facebook Ads,Mobile
+2052,2024-02-29,Organic,Mobile
+2053,2024-01-17,Facebook Ads,Desktop
+2054,2024-09-19,Facebook Ads,Desktop
+2055,2024-06-19,Google Ads,Desktop
+2056,2024-04-09,Organic,Mobile
+2057,2024-02-25,Google Ads,Mobile
+2058,2024-02-17,Facebook Ads,Mobile
+2059,2024-04-04,Organic,Mobile
+2060,2024-03-11,Google Ads,Desktop
+2061,2024-01-06,Referral,Desktop
+2062,2024-03-05,Referral,Mobile
+2063,2024-05-27,Google Ads,Desktop
+2064,2024-02-25,Google Ads,Mobile
+2065,2024-01-05,Organic,Desktop
+2066,2024-05-18,Facebook Ads,Mobile
+2067,2024-01-21,Google Ads,Mobile
+2068,2024-01-27,Google Ads,Mobile
+2069,2024-01-17,Referral,Mobile
+2070,2024-02-06,Facebook Ads,Desktop
+2071,2024-05-07,Organic,Mobile
+2072,2024-03-06,Organic,Mobile
+2073,2024-01-21,Google Ads,Desktop
+2074,2024-07-08,Facebook Ads,Desktop
+2075,2024-07-09,Referral,Desktop
+2076,2024-07-03,Google Ads,Mobile
+2077,2024-01-25,Organic,Desktop
+2078,2024-02-24,Facebook Ads,Desktop
+2079,2025-01-12,Google Ads,Mobile
+2080,2024-05-13,Google Ads,Mobile
+2081,2024-01-03,Facebook Ads,Mobile
+2082,2024-01-07,Facebook Ads,Mobile
+2083,2024-02-26,Organic,Mobile
+2084,2024-08-03,Facebook Ads,Mobile
+2085,2024-03-10,Facebook Ads,Desktop
+2086,2024-03-02,Google Ads,Desktop
+2087,2024-01-11,Organic,Desktop
+2088,2024-04-06,Facebook Ads,Desktop
+2089,2024-06-04,Organic,Mobile
+2090,2024-02-13,Facebook Ads,Desktop
+2091,2024-05-14,Facebook Ads,Desktop
+2092,2024-10-27,Facebook Ads,Mobile
+2093,2024-01-21,Organic,Desktop
+2094,2024-03-07,Facebook Ads,Desktop
+2095,2024-01-31,Facebook Ads,Mobile
+2096,2024-05-21,Google Ads,Desktop
+2097,2024-03-18,Organic,Mobile
+2098,2024-03-31,Facebook Ads,Mobile
+2099,2024-05-23,Google Ads,Mobile
+2100,2024-02-15,Facebook Ads,Desktop
+2101,2024-08-09,Google Ads,Desktop
+2102,2024-03-09,Organic,Desktop
+2103,2024-01-16,Organic,Mobile
+2104,2024-04-17,Google Ads,Mobile
+2105,2024-05-21,Google Ads,Desktop
+2106,2024-02-04,Facebook Ads,Desktop
+2107,2024-06-24,Google Ads,Mobile
+2108,2024-07-31,Facebook Ads,Mobile
+2109,2024-01-30,Organic,Desktop
+2110,2025-01-04,Referral,Desktop
+2111,2024-01-14,Referral,Mobile
+2112,2024-01-21,Referral,Mobile
+2113,2024-01-19,Organic,Desktop
+2114,2024-07-20,Organic,Desktop
+2115,2024-04-05,Facebook Ads,Mobile
+2116,2024-01-15,Organic,Mobile
+2117,2024-02-22,Google Ads,Desktop
+2118,2024-03-26,Google Ads,Mobile
+2119,2024-01-08,Organic,Mobile
+2120,2024-07-11,Facebook Ads,Mobile
+2121,2024-05-26,Google Ads,Mobile
+2122,2024-03-04,Referral,Desktop
+2123,2024-11-03,Facebook Ads,Mobile
+2124,2024-02-18,Google Ads,Desktop
+2125,2025-01-07,Referral,Mobile
+2126,2024-04-09,Organic,Mobile
+2127,2024-03-31,Google Ads,Mobile
+2128,2024-01-17,Facebook Ads,Desktop
+2129,2024-07-11,Google Ads,Desktop
+2130,2024-02-20,Referral,Mobile
+2131,2024-01-16,Organic,Desktop
+2132,2024-01-02,Google Ads,Desktop
+2133,2024-03-14,Facebook Ads,Desktop
+2134,2024-03-08,Facebook Ads,Mobile
+2135,2024-04-24,Referral,Desktop
+2136,2024-07-17,Google Ads,Mobile
+2137,2024-01-08,Organic,Mobile
+2138,2024-04-28,Facebook Ads,Desktop
+2139,2024-01-19,Organic,Mobile
+2140,2024-06-24,Referral,Mobile
+2141,2024-06-02,Organic,Mobile
+2142,2024-03-11,Facebook Ads,Desktop
+2143,2024-04-21,Organic,Desktop
+2144,2024-02-03,Organic,Mobile
+2145,2024-02-27,Google Ads,Desktop
+2146,2024-06-04,Referral,Mobile
+2147,2024-02-25,Organic,Mobile
+2148,2024-02-09,Referral,Desktop
+2149,2024-03-02,Organic,Mobile
+2150,2024-06-07,Facebook Ads,Mobile
+2151,2024-02-06,Google Ads,Mobile
+2152,2024-01-18,Facebook Ads,Desktop
+2153,2024-04-22,Referral,Mobile
+2154,2024-06-06,Organic,Desktop
+2155,2024-01-10,Organic,Desktop
+2156,2024-01-25,Google Ads,Mobile
+2157,2024-01-14,Facebook Ads,Desktop
+2158,2024-02-08,Organic,Mobile
+2159,2024-02-23,Google Ads,Mobile
+2160,2024-05-04,Facebook Ads,Desktop
+2161,2024-04-04,Organic,Desktop
+2162,2024-03-28,Facebook Ads,Mobile
+2163,2024-02-09,Google Ads,Mobile
+2164,2024-06-14,Google Ads,Mobile
+2165,2024-02-27,Facebook Ads,Mobile
+2166,2024-12-14,Referral,Mobile
+2167,2024-03-31,Facebook Ads,Mobile
+2168,2024-01-13,Facebook Ads,Desktop
+2169,2024-04-11,Facebook Ads,Mobile
+2170,2024-02-05,Organic,Mobile
+2171,2024-04-14,Google Ads,Desktop
+2172,2024-01-07,Organic,Desktop
+2173,2024-01-18,Facebook Ads,Mobile
+2174,2024-06-23,Facebook Ads,Mobile
+2175,2024-01-24,Google Ads,Desktop
+2176,2024-06-12,Organic,Mobile
+2177,2024-01-30,Referral,Mobile
+2178,2024-04-02,Facebook Ads,Desktop
+2179,2024-04-16,Google Ads,Mobile
+2180,2024-03-05,Referral,Mobile
+2181,2024-02-02,Google Ads,Mobile
+2182,2024-01-22,Organic,Mobile
+2183,2024-01-04,Facebook Ads,Mobile
+2184,2024-02-02,Referral,Desktop
+2185,2024-04-05,Organic,Mobile
+2186,2024-09-07,Referral,Mobile
+2187,2024-07-03,Organic,Mobile
+2188,2024-05-10,Google Ads,Desktop
+2189,2024-05-19,Referral,Mobile
+2190,2024-04-08,Facebook Ads,Mobile
+2191,2024-01-28,Google Ads,Desktop
+2192,2024-08-01,Organic,Mobile
+2193,2024-04-09,Organic,Mobile
+2194,2024-03-14,Referral,Mobile
+2195,2024-01-11,Facebook Ads,Mobile
+2196,2024-02-23,Organic,Mobile
+2197,2024-02-25,Organic,Desktop
+2198,2024-06-28,Facebook Ads,Mobile
+2199,2024-03-12,Google Ads,Desktop
+2200,2024-02-13,Facebook Ads,Mobile
+2201,2024-12-04,Google Ads,Mobile
+2202,2024-01-11,Referral,Mobile
+2203,2024-02-19,Organic,Desktop
+2204,2024-01-04,Organic,Mobile
+2205,2024-05-01,Referral,Desktop
+2206,2024-08-13,Google Ads,Mobile
+2207,2024-01-30,Organic,Mobile
+2208,2024-06-24,Google Ads,Mobile
+2209,2024-02-01,Referral,Mobile
+2210,2024-08-05,Facebook Ads,Mobile
+2211,2024-05-06,Referral,Mobile
+2212,2024-05-27,Facebook Ads,Desktop
+2213,2024-01-02,Google Ads,Mobile
+2214,2024-10-23,Organic,Desktop
+2215,2024-04-26,Google Ads,Mobile
+2216,2024-02-02,Organic,Mobile
+2217,2024-06-08,Google Ads,Desktop
+2218,2024-01-30,Organic,Mobile
+2219,2024-07-04,Facebook Ads,Mobile
+2220,2024-01-11,Facebook Ads,Desktop
+2221,2024-04-19,Facebook Ads,Desktop
+2222,2024-03-11,Google Ads,Mobile
+2223,2024-01-10,Facebook Ads,Mobile
+2224,2024-01-25,Google Ads,Desktop
+2225,2024-01-02,Google Ads,Mobile
+2226,2024-02-26,Facebook Ads,Desktop
+2227,2024-02-02,Organic,Mobile
+2228,2024-03-23,Referral,Mobile
+2229,2024-02-01,Facebook Ads,Desktop
+2230,2024-02-02,Organic,Mobile
+2231,2024-05-02,Organic,Mobile
+2232,2024-01-05,Google Ads,Mobile
+2233,2024-07-28,Organic,Desktop
+2234,2024-06-21,Google Ads,Desktop
+2235,2024-04-09,Google Ads,Mobile
+2236,2024-03-21,Facebook Ads,Mobile
+2237,2024-07-19,Organic,Desktop
+2238,2024-01-19,Organic,Desktop
+2239,2024-01-08,Facebook Ads,Desktop
+2240,2024-01-25,Google Ads,Mobile
+2241,2024-05-22,Referral,Desktop
+2242,2024-01-04,Google Ads,Desktop
+2243,2024-03-19,Google Ads,Mobile
+2244,2025-04-30,Referral,Mobile
+2245,2024-06-23,Organic,Mobile
+2246,2024-03-07,Organic,Desktop
+2247,2024-01-06,Organic,Mobile
+2248,2024-06-09,Referral,Desktop
+2249,2024-03-23,Google Ads,Desktop
+2250,2024-01-11,Google Ads,Desktop
+2251,2024-01-09,Google Ads,Desktop
+2252,2024-08-04,Referral,Desktop
+2253,2024-04-09,Organic,Mobile
+2254,2024-06-08,Facebook Ads,Desktop
+2255,2024-07-09,Referral,Mobile
+2256,2024-03-17,Google Ads,Desktop
+2257,2024-03-06,Facebook Ads,Mobile
+2258,2024-02-20,Google Ads,Desktop
+2259,2024-02-04,Google Ads,Desktop
+2260,2024-02-21,Referral,Desktop
+2261,2024-05-13,Facebook Ads,Mobile
+2262,2024-03-23,Organic,Mobile
+2263,2024-07-19,Organic,Desktop
+2264,2024-02-22,Facebook Ads,Mobile
+2265,2024-03-25,Referral,Desktop
+2266,2024-03-30,Google Ads,Mobile
+2267,2024-03-21,Facebook Ads,Desktop
+2268,2024-04-19,Google Ads,Mobile
+2269,2024-01-25,Referral,Desktop
+2270,2024-03-05,Google Ads,Desktop
+2271,2024-01-10,Facebook Ads,Mobile
+2272,2024-02-13,Facebook Ads,Mobile
+2273,2024-03-01,Facebook Ads,Mobile
+2274,2024-04-05,Organic,Desktop
+2275,2024-09-27,Google Ads,Mobile
+2276,2024-03-23,Facebook Ads,Desktop
+2277,2024-05-02,Facebook Ads,Mobile
+2278,2024-03-04,Google Ads,Mobile
+2279,2024-03-31,Referral,Mobile
+2280,2024-01-07,Google Ads,Mobile
+2281,2024-01-27,Referral,Mobile
+2282,2024-02-10,Google Ads,Desktop
+2283,2024-02-27,Facebook Ads,Desktop
+2284,2024-01-05,Referral,Mobile
+2285,2024-01-14,Google Ads,Desktop
+2286,2024-01-30,Organic,Desktop
+2287,2024-11-16,Referral,Mobile
+2288,2024-02-06,Facebook Ads,Mobile
+2289,2024-02-29,Facebook Ads,Mobile
+2290,2024-01-20,Organic,Mobile
+2291,2024-03-25,Facebook Ads,Desktop
+2292,2024-01-30,Facebook Ads,Desktop
+2293,2024-01-21,Facebook Ads,Mobile
+2294,2024-03-06,Facebook Ads,Mobile
+2295,2024-01-01,Organic,Desktop
+2296,2024-01-01,Facebook Ads,Desktop
+2297,2024-01-23,Google Ads,Desktop
+2298,2024-01-04,Organic,Desktop
+2299,2024-01-11,Google Ads,Mobile
+2300,2024-02-07,Facebook Ads,Desktop
+2301,2024-05-26,Organic,Desktop
+2302,2024-03-17,Facebook Ads,Mobile
+2303,2024-03-05,Organic,Desktop
+2304,2024-02-01,Referral,Mobile
+2305,2024-08-29,Google Ads,Mobile
+2306,2024-02-15,Google Ads,Mobile
+2307,2024-01-09,Google Ads,Mobile
+2308,2024-03-27,Google Ads,Mobile
+2309,2024-01-11,Referral,Mobile
+2310,2024-02-08,Referral,Mobile
+2311,2024-03-04,Google Ads,Mobile
+2312,2024-07-05,Organic,Mobile
+2313,2024-03-02,Referral,Mobile
+2314,2024-04-19,Referral,Desktop
+2315,2025-03-20,Google Ads,Mobile
+2316,2024-01-13,Google Ads,Mobile
+2317,2024-01-29,Facebook Ads,Desktop
+2318,2024-02-15,Referral,Desktop
+2319,2024-02-19,Facebook Ads,Desktop
+2320,2024-02-17,Organic,Mobile
+2321,2024-08-02,Facebook Ads,Mobile
+2322,2024-04-22,Facebook Ads,Desktop
+2323,2024-03-25,Google Ads,Mobile
+2324,2024-02-03,Referral,Mobile
+2325,2024-06-05,Facebook Ads,Mobile
+2326,2024-10-06,Organic,Desktop
+2327,2024-06-03,Facebook Ads,Mobile
+2328,2024-01-01,Facebook Ads,Desktop
+2329,2024-04-01,Google Ads,Desktop
+2330,2024-01-05,Google Ads,Mobile
+2331,2024-01-27,Facebook Ads,Desktop
+2332,2024-01-06,Google Ads,Desktop
+2333,2024-03-24,Facebook Ads,Desktop
+2334,2024-04-14,Google Ads,Mobile
+2335,2024-01-11,Referral,Desktop
+2336,2024-02-13,Referral,Mobile
+2337,2024-02-24,Google Ads,Desktop
+2338,2024-02-11,Organic,Mobile
+2339,2024-01-12,Referral,Mobile
+2340,2024-02-18,Facebook Ads,Desktop
+2341,2024-05-05,Organic,Desktop
+2342,2024-01-07,Referral,Desktop
+2343,2024-01-08,Facebook Ads,Mobile
+2344,2024-02-09,Facebook Ads,Mobile
+2345,2024-09-12,Referral,Desktop
+2346,2024-04-09,Google Ads,Desktop
+2347,2024-04-12,Facebook Ads,Desktop
+2348,2024-02-10,Facebook Ads,Mobile
+2349,2024-03-22,Google Ads,Mobile
+2350,2024-01-01,Organic,Desktop
+2351,2024-03-31,Organic,Desktop
+2352,2024-08-08,Referral,Mobile
+2353,2024-03-26,Facebook Ads,Desktop
+2354,2024-07-05,Google Ads,Mobile
+2355,2024-04-25,Google Ads,Mobile
+2356,2024-01-12,Google Ads,Mobile
+2357,2024-07-28,Facebook Ads,Mobile
+2358,2024-01-07,Referral,Mobile
+2359,2024-03-09,Referral,Mobile
+2360,2024-01-14,Google Ads,Mobile
+2361,2024-01-02,Organic,Desktop
+2362,2024-02-19,Facebook Ads,Mobile
+2363,2024-02-01,Google Ads,Mobile
+2364,2024-02-29,Organic,Mobile
+2365,2024-03-18,Google Ads,Mobile
+2366,2024-01-05,Referral,Desktop
+2367,2024-01-12,Organic,Mobile
+2368,2024-03-14,Google Ads,Desktop
+2369,2024-02-07,Organic,Desktop
+2370,2024-04-27,Facebook Ads,Mobile
+2371,2024-04-05,Google Ads,Mobile
+2372,2024-06-17,Google Ads,Mobile
+2373,2024-04-16,Google Ads,Mobile
+2374,2024-02-20,Organic,Desktop
+2375,2024-04-10,Google Ads,Desktop
+2376,2024-01-29,Organic,Mobile
+2377,2024-02-02,Organic,Mobile
+2378,2024-05-20,Google Ads,Mobile
+2379,2024-02-23,Organic,Desktop
+2380,2024-05-24,Facebook Ads,Mobile
+2381,2024-06-04,Facebook Ads,Mobile
+2382,2024-06-24,Google Ads,Mobile
+2383,2024-08-11,Facebook Ads,Desktop
+2384,2024-02-20,Facebook Ads,Desktop
+2385,2024-02-04,Organic,Mobile
+2386,2024-03-19,Google Ads,Mobile
+2387,2024-02-11,Google Ads,Desktop
+2388,2024-03-23,Referral,Mobile
+2389,2024-04-20,Organic,Desktop
+2390,2024-04-14,Referral,Mobile
+2391,2024-02-12,Facebook Ads,Desktop
+2392,2024-01-17,Organic,Mobile
+2393,2024-02-20,Referral,Desktop
+2394,2024-01-14,Organic,Desktop
+2395,2024-07-17,Organic,Desktop
+2396,2024-02-08,Google Ads,Desktop
+2397,2024-01-16,Facebook Ads,Desktop
+2398,2024-01-03,Google Ads,Mobile
+2399,2024-04-03,Google Ads,Desktop
+2400,2024-04-01,Referral,Desktop
+2401,2024-02-07,Facebook Ads,Mobile
+2402,2024-01-07,Referral,Desktop
+2403,2024-02-17,Referral,Desktop
+2404,2024-02-03,Facebook Ads,Mobile
+2405,2024-04-11,Google Ads,Mobile
+2406,2024-03-24,Referral,Mobile
+2407,2024-02-10,Referral,Mobile
+2408,2024-01-23,Google Ads,Mobile
+2409,2025-02-02,Google Ads,Mobile
+2410,2024-02-24,Google Ads,Mobile
+2411,2024-04-14,Organic,Mobile
+2412,2024-01-14,Facebook Ads,Desktop
+2413,2024-02-29,Organic,Mobile
+2414,2024-01-03,Facebook Ads,Mobile
+2415,2024-03-04,Facebook Ads,Mobile
+2416,2024-10-26,Google Ads,Mobile
+2417,2024-02-13,Google Ads,Desktop
+2418,2024-01-04,Google Ads,Desktop
+2419,2024-01-03,Google Ads,Desktop
+2420,2024-02-14,Google Ads,Mobile
+2421,2024-01-16,Facebook Ads,Desktop
+2422,2024-01-03,Google Ads,Mobile
+2423,2024-05-07,Referral,Mobile
+2424,2024-02-25,Google Ads,Mobile
+2425,2024-01-31,Google Ads,Mobile
+2426,2024-07-26,Organic,Mobile
+2427,2024-01-12,Referral,Mobile
+2428,2024-10-07,Facebook Ads,Desktop
+2429,2024-02-03,Organic,Mobile
+2430,2024-07-16,Organic,Mobile
+2431,2024-03-24,Organic,Mobile
+2432,2024-06-06,Facebook Ads,Desktop
+2433,2025-01-07,Organic,Mobile
+2434,2024-01-31,Facebook Ads,Desktop
+2435,2024-10-19,Organic,Desktop
+2436,2024-02-14,Organic,Mobile
+2437,2024-02-13,Facebook Ads,Mobile
+2438,2024-02-07,Organic,Mobile
+2439,2024-03-11,Facebook Ads,Desktop
+2440,2024-01-16,Organic,Mobile
+2441,2024-03-13,Google Ads,Mobile
+2442,2024-03-11,Facebook Ads,Mobile
+2443,2024-05-09,Facebook Ads,Desktop
+2444,2024-06-10,Referral,Mobile
+2445,2024-02-22,Facebook Ads,Mobile
+2446,2024-02-02,Facebook Ads,Desktop
+2447,2024-01-28,Google Ads,Desktop
+2448,2024-01-20,Organic,Desktop
+2449,2024-01-06,Google Ads,Mobile
+2450,2024-02-07,Facebook Ads,Desktop
+2451,2024-01-29,Facebook Ads,Desktop
+2452,2024-11-01,Facebook Ads,Mobile
+2453,2024-03-14,Facebook Ads,Desktop
+2454,2024-02-08,Google Ads,Mobile
+2455,2024-03-19,Organic,Desktop
+2456,2024-01-14,Facebook Ads,Mobile
+2457,2024-02-22,Google Ads,Desktop
+2458,2024-03-29,Google Ads,Mobile
+2459,2024-03-01,Referral,Desktop
+2460,2024-02-16,Referral,Mobile
+2461,2025-04-03,Organic,Desktop
+2462,2024-07-10,Facebook Ads,Desktop
+2463,2024-03-28,Facebook Ads,Mobile
+2464,2024-03-16,Google Ads,Desktop
+2465,2024-03-28,Facebook Ads,Desktop
+2466,2024-01-21,Google Ads,Mobile
+2467,2024-02-15,Organic,Mobile
+2468,2024-01-04,Referral,Mobile
+2469,2024-02-28,Organic,Mobile
+2470,2024-03-11,Google Ads,Mobile
+2471,2024-01-24,Organic,Mobile
+2472,2024-10-26,Google Ads,Mobile
+2473,2024-08-04,Facebook Ads,Mobile
+2474,2024-04-25,Organic,Mobile
+2475,2024-03-09,Facebook Ads,Desktop
+2476,2024-07-02,Google Ads,Desktop
+2477,2024-01-13,Google Ads,Mobile
+2478,2024-05-20,Organic,Desktop
+2479,2024-01-12,Organic,Desktop
+2480,2024-05-22,Google Ads,Desktop
+2481,2024-01-30,Organic,Mobile
+2482,2024-07-07,Facebook Ads,Mobile
+2483,2024-09-16,Google Ads,Desktop
+2484,2024-01-15,Organic,Desktop
+2485,2024-02-25,Organic,Desktop
+2486,2024-12-22,Referral,Desktop
+2487,2024-02-29,Facebook Ads,Mobile
+2488,2024-06-28,Organic,Mobile
+2489,2024-03-20,Organic,Mobile
+2490,2024-02-12,Referral,Mobile
+2491,2024-01-31,Facebook Ads,Desktop
+2492,2024-01-21,Organic,Mobile
+2493,2024-05-09,Organic,Mobile
+2494,2024-02-13,Facebook Ads,Desktop
+2495,2024-03-05,Google Ads,Mobile
+2496,2024-03-02,Google Ads,Desktop
+2497,2024-03-18,Organic,Desktop
+2498,2024-06-29,Referral,Desktop
+2499,2024-12-21,Organic,Mobile
+2500,2024-02-17,Organic,Mobile
+2501,2024-06-07,Google Ads,Mobile
+2502,2024-05-10,Facebook Ads,Mobile
+2503,2024-03-17,Facebook Ads,Mobile
+2504,2024-10-08,Google Ads,Desktop
+2505,2024-01-21,Google Ads,Mobile
+2506,2024-01-11,Facebook Ads,Desktop
+2507,2024-06-22,Google Ads,Mobile
+2508,2024-02-22,Google Ads,Desktop
+2509,2024-06-17,Facebook Ads,Desktop
+2510,2024-07-20,Google Ads,Mobile
+2511,2024-01-06,Facebook Ads,Mobile
+2512,2024-07-12,Referral,Desktop
+2513,2024-02-23,Referral,Desktop
+2514,2024-03-05,Organic,Desktop
+2515,2024-03-29,Facebook Ads,Mobile
+2516,2024-08-22,Organic,Mobile
+2517,2024-01-02,Organic,Desktop
+2518,2024-02-28,Organic,Desktop
+2519,2024-04-14,Facebook Ads,Mobile
+2520,2024-04-25,Organic,Desktop
+2521,2024-04-16,Organic,Mobile
+2522,2024-01-13,Organic,Mobile
+2523,2024-02-02,Organic,Mobile
+2524,2024-02-09,Google Ads,Mobile
+2525,2024-05-26,Google Ads,Mobile
+2526,2024-01-30,Facebook Ads,Mobile
+2527,2024-01-22,Organic,Mobile
+2528,2024-10-11,Facebook Ads,Desktop
+2529,2024-01-01,Google Ads,Desktop
+2530,2025-07-05,Facebook Ads,Desktop
+2531,2024-04-11,Google Ads,Desktop
+2532,2024-06-07,Facebook Ads,Mobile
+2533,2024-02-01,Organic,Desktop
+2534,2024-01-02,Organic,Desktop
+2535,2024-04-30,Facebook Ads,Mobile
+2536,2024-06-10,Facebook Ads,Mobile
+2537,2024-05-01,Facebook Ads,Mobile
+2538,2024-01-14,Referral,Desktop
+2539,2024-05-06,Google Ads,Mobile
+2540,2024-05-11,Google Ads,Desktop
+2541,2024-04-06,Facebook Ads,Desktop
+2542,2024-05-10,Organic,Desktop
+2543,2024-06-17,Referral,Desktop
+2544,2024-03-26,Organic,Desktop
+2545,2024-01-09,Organic,Mobile
+2546,2024-03-01,Facebook Ads,Mobile
+2547,2024-01-08,Facebook Ads,Desktop
+2548,2024-02-17,Facebook Ads,Mobile
+2549,2024-02-17,Facebook Ads,Mobile
+2550,2024-01-07,Facebook Ads,Mobile
+2551,2024-02-08,Facebook Ads,Desktop
+2552,2024-01-11,Google Ads,Mobile
+2553,2024-05-28,Referral,Desktop
+2554,2024-09-22,Organic,Mobile
+2555,2024-01-07,Organic,Mobile
+2556,2024-10-06,Organic,Desktop
+2557,2024-03-07,Facebook Ads,Mobile
+2558,2024-02-02,Organic,Desktop
+2559,2024-01-08,Facebook Ads,Desktop
+2560,2024-03-03,Organic,Desktop
+2561,2024-05-22,Google Ads,Mobile
+2562,2024-04-20,Referral,Desktop
+2563,2024-01-05,Facebook Ads,Desktop
+2564,2024-01-07,Facebook Ads,Desktop
+2565,2024-02-16,Referral,Mobile
+2566,2024-02-01,Facebook Ads,Mobile
+2567,2024-01-24,Organic,Desktop
+2568,2024-01-30,Organic,Desktop
+2569,2024-05-26,Organic,Mobile
+2570,2024-08-26,Referral,Mobile
+2571,2024-02-16,Referral,Mobile
+2572,2024-07-31,Facebook Ads,Mobile
+2573,2024-02-04,Organic,Mobile
+2574,2024-02-28,Organic,Mobile
+2575,2024-01-24,Organic,Desktop
+2576,2024-04-02,Facebook Ads,Mobile
+2577,2024-12-13,Organic,Desktop
+2578,2024-03-24,Referral,Mobile
+2579,2024-02-09,Referral,Mobile
+2580,2024-04-03,Google Ads,Mobile
+2581,2024-01-12,Facebook Ads,Mobile
+2582,2024-07-16,Google Ads,Desktop
+2583,2024-03-03,Organic,Desktop
+2584,2024-02-23,Organic,Mobile
+2585,2024-03-20,Google Ads,Mobile
+2586,2024-03-29,Facebook Ads,Mobile
+2587,2024-01-07,Google Ads,Desktop
+2588,2024-04-13,Google Ads,Desktop
+2589,2024-01-25,Referral,Mobile
+2590,2024-04-22,Organic,Desktop
+2591,2024-06-04,Google Ads,Desktop
+2592,2024-05-26,Google Ads,Mobile
+2593,2024-03-13,Facebook Ads,Mobile
+2594,2024-03-07,Referral,Desktop
+2595,2024-01-14,Google Ads,Desktop
+2596,2024-05-14,Google Ads,Mobile
+2597,2024-01-29,Google Ads,Mobile
+2598,2024-03-02,Organic,Mobile
+2599,2024-01-31,Organic,Mobile
+2600,2024-01-13,Organic,Desktop
+2601,2024-03-30,Facebook Ads,Mobile
+2602,2024-01-06,Google Ads,Desktop
+2603,2024-05-04,Facebook Ads,Desktop
+2604,2024-02-04,Organic,Mobile
+2605,2024-01-01,Facebook Ads,Mobile
+2606,2024-03-05,Organic,Mobile
+2607,2024-01-05,Referral,Desktop
+2608,2024-01-30,Referral,Mobile
+2609,2024-04-20,Google Ads,Desktop
+2610,2024-01-06,Google Ads,Desktop
+2611,2024-06-13,Facebook Ads,Mobile
+2612,2024-01-01,Organic,Desktop
+2613,2024-01-26,Organic,Desktop
+2614,2024-05-01,Facebook Ads,Mobile
+2615,2024-02-04,Google Ads,Mobile
+2616,2024-01-10,Organic,Desktop
+2617,2024-02-10,Referral,Desktop
+2618,2024-01-29,Facebook Ads,Mobile
+2619,2024-06-15,Organic,Mobile
+2620,2024-02-03,Facebook Ads,Mobile
+2621,2024-05-20,Facebook Ads,Desktop
+2622,2024-07-19,Referral,Mobile
+2623,2024-02-21,Organic,Mobile
+2624,2024-08-04,Organic,Desktop
+2625,2024-02-12,Facebook Ads,Mobile
+2626,2024-10-26,Organic,Desktop
+2627,2024-01-09,Google Ads,Mobile
+2628,2024-04-14,Google Ads,Desktop
+2629,2024-03-02,Google Ads,Mobile
+2630,2024-02-14,Facebook Ads,Desktop
+2631,2024-03-31,Organic,Desktop
+2632,2024-04-19,Organic,Mobile
+2633,2024-01-01,Facebook Ads,Mobile
+2634,2024-01-17,Facebook Ads,Mobile
+2635,2024-04-22,Facebook Ads,Mobile
+2636,2024-04-08,Facebook Ads,Desktop
+2637,2024-10-31,Organic,Desktop
+2638,2024-05-08,Organic,Mobile
+2639,2024-09-28,Facebook Ads,Desktop
+2640,2024-04-19,Facebook Ads,Desktop
+2641,2024-02-01,Organic,Desktop
+2642,2024-01-11,Organic,Mobile
+2643,2024-05-17,Google Ads,Mobile
+2644,2024-04-02,Google Ads,Mobile
+2645,2024-01-05,Organic,Mobile
+2646,2024-02-10,Facebook Ads,Mobile
+2647,2024-10-09,Facebook Ads,Mobile
+2648,2024-03-03,Organic,Mobile
+2649,2024-02-21,Organic,Desktop
+2650,2024-02-25,Organic,Mobile
+2651,2024-01-22,Organic,Mobile
+2652,2024-02-11,Organic,Mobile
+2653,2024-02-11,Facebook Ads,Mobile
+2654,2024-01-05,Google Ads,Desktop
+2655,2024-05-11,Facebook Ads,Mobile
+2656,2024-02-18,Facebook Ads,Mobile
+2657,2024-06-04,Organic,Mobile
+2658,2024-06-19,Referral,Mobile
+2659,2024-01-22,Referral,Mobile
+2660,2024-04-06,Organic,Desktop
+2661,2024-02-27,Facebook Ads,Mobile
+2662,2024-07-09,Facebook Ads,Mobile
+2663,2024-01-22,Organic,Mobile
+2664,2024-04-11,Organic,Mobile
+2665,2024-03-25,Organic,Desktop
+2666,2024-02-01,Organic,Desktop
+2667,2024-01-14,Organic,Desktop
+2668,2024-04-04,Organic,Mobile
+2669,2024-04-30,Facebook Ads,Mobile
+2670,2024-02-04,Organic,Desktop
+2671,2024-04-03,Referral,Desktop
+2672,2024-02-15,Facebook Ads,Mobile
+2673,2024-04-22,Organic,Mobile
+2674,2024-01-20,Google Ads,Mobile
+2675,2024-07-17,Referral,Mobile
+2676,2024-01-31,Facebook Ads,Mobile
+2677,2024-02-11,Organic,Mobile
+2678,2024-01-06,Facebook Ads,Desktop
+2679,2024-01-11,Organic,Mobile
+2680,2024-03-06,Facebook Ads,Mobile
+2681,2024-01-29,Facebook Ads,Mobile
+2682,2024-06-11,Google Ads,Desktop
+2683,2024-01-02,Referral,Mobile
+2684,2024-02-12,Facebook Ads,Desktop
+2685,2024-02-07,Facebook Ads,Mobile
+2686,2024-01-02,Organic,Desktop
+2687,2024-01-12,Google Ads,Mobile
+2688,2024-02-18,Referral,Mobile
+2689,2024-03-02,Facebook Ads,Mobile
+2690,2024-02-16,Organic,Mobile
+2691,2024-03-09,Facebook Ads,Mobile
+2692,2024-03-22,Facebook Ads,Desktop
+2693,2024-01-01,Organic,Mobile
+2694,2024-02-26,Organic,Mobile
+2695,2024-10-24,Organic,Mobile
+2696,2024-03-06,Google Ads,Desktop
+2697,2024-04-11,Google Ads,Desktop
+2698,2024-02-03,Google Ads,Desktop
+2699,2024-05-13,Referral,Mobile
+2700,2024-05-13,Facebook Ads,Desktop
+2701,2024-03-07,Facebook Ads,Desktop
+2702,2024-12-01,Google Ads,Desktop
+2703,2024-01-13,Organic,Mobile
+2704,2024-01-02,Facebook Ads,Mobile
+2705,2024-05-12,Referral,Mobile
+2706,2024-05-28,Facebook Ads,Mobile
+2707,2024-01-12,Referral,Desktop
+2708,2024-01-28,Facebook Ads,Mobile
+2709,2024-01-02,Organic,Mobile
+2710,2024-02-01,Referral,Desktop
+2711,2024-05-13,Facebook Ads,Desktop
+2712,2024-03-06,Referral,Mobile
+2713,2024-02-08,Google Ads,Desktop
+2714,2024-02-11,Referral,Mobile
+2715,2024-01-01,Organic,Desktop
+2716,2024-02-02,Google Ads,Desktop
+2717,2024-04-03,Facebook Ads,Mobile
+2718,2024-11-25,Google Ads,Desktop
+2719,2024-06-17,Facebook Ads,Desktop
+2720,2024-01-03,Facebook Ads,Mobile
+2721,2024-07-24,Facebook Ads,Mobile
+2722,2024-05-17,Google Ads,Desktop
+2723,2024-05-16,Organic,Mobile
+2724,2024-02-25,Facebook Ads,Mobile
+2725,2024-02-15,Facebook Ads,Desktop
+2726,2024-02-02,Organic,Desktop
+2727,2024-01-07,Facebook Ads,Mobile
+2728,2024-01-24,Facebook Ads,Mobile
+2729,2024-01-26,Facebook Ads,Mobile
+2730,2024-02-29,Referral,Mobile
+2731,2024-05-03,Organic,Mobile
+2732,2024-02-27,Google Ads,Desktop
+2733,2024-01-06,Organic,Mobile
+2734,2024-10-11,Google Ads,Mobile
+2735,2024-09-14,Organic,Mobile
+2736,2024-05-18,Organic,Desktop
+2737,2025-03-03,Organic,Mobile
+2738,2024-03-11,Facebook Ads,Mobile
+2739,2024-10-23,Facebook Ads,Mobile
+2740,2024-01-08,Google Ads,Desktop
+2741,2024-02-10,Referral,Desktop
+2742,2024-01-23,Organic,Mobile
+2743,2024-01-20,Organic,Mobile
+2744,2024-01-14,Referral,Mobile
+2745,2024-03-28,Facebook Ads,Mobile
+2746,2024-05-16,Organic,Mobile
+2747,2024-03-18,Organic,Mobile
+2748,2024-01-15,Referral,Mobile
+2749,2024-05-29,Referral,Mobile
+2750,2024-03-31,Organic,Mobile
+2751,2024-02-14,Facebook Ads,Desktop
+2752,2024-04-10,Organic,Mobile
+2753,2024-01-28,Facebook Ads,Mobile
+2754,2024-02-08,Organic,Mobile
+2755,2024-08-12,Referral,Desktop
+2756,2024-01-31,Google Ads,Desktop
+2757,2024-02-27,Organic,Mobile
+2758,2024-07-17,Google Ads,Mobile
+2759,2024-04-20,Google Ads,Mobile
+2760,2024-01-06,Google Ads,Mobile
+2761,2024-01-15,Organic,Mobile
+2762,2024-01-01,Referral,Desktop
+2763,2024-03-30,Referral,Mobile
+2764,2024-02-23,Facebook Ads,Desktop
+2765,2024-01-13,Referral,Mobile
+2766,2024-10-12,Organic,Desktop
+2767,2024-03-08,Facebook Ads,Desktop
+2768,2024-01-25,Facebook Ads,Mobile
+2769,2024-03-03,Facebook Ads,Mobile
+2770,2024-04-12,Referral,Mobile
+2771,2024-01-08,Organic,Mobile
+2772,2024-01-29,Organic,Mobile
+2773,2024-05-28,Facebook Ads,Desktop
+2774,2024-02-25,Organic,Mobile
+2775,2024-03-12,Facebook Ads,Desktop
+2776,2024-02-21,Google Ads,Mobile
+2777,2024-01-05,Organic,Desktop
+2778,2024-01-17,Facebook Ads,Mobile
+2779,2024-02-23,Organic,Desktop
+2780,2024-01-22,Facebook Ads,Mobile
+2781,2024-01-05,Organic,Mobile
+2782,2024-06-16,Google Ads,Desktop
+2783,2024-12-23,Organic,Mobile
+2784,2024-05-21,Facebook Ads,Desktop
+2785,2024-06-22,Facebook Ads,Desktop
+2786,2024-01-25,Referral,Mobile
+2787,2024-10-18,Facebook Ads,Mobile
+2788,2024-01-20,Organic,Desktop
+2789,2024-09-29,Referral,Mobile
+2790,2025-04-18,Facebook Ads,Desktop
+2791,2024-04-21,Facebook Ads,Desktop
+2792,2024-12-23,Organic,Mobile
+2793,2024-03-16,Referral,Mobile
+2794,2024-01-28,Referral,Desktop
+2795,2024-02-21,Google Ads,Mobile
+2796,2024-03-22,Organic,Mobile
+2797,2024-01-07,Facebook Ads,Mobile
+2798,2024-03-28,Referral,Mobile
+2799,2024-12-23,Referral,Mobile
+2800,2024-01-19,Facebook Ads,Mobile
+2801,2024-05-21,Facebook Ads,Desktop
+2802,2024-08-02,Facebook Ads,Mobile
+2803,2024-09-15,Facebook Ads,Mobile
+2804,2024-10-17,Organic,Desktop
+2805,2024-03-07,Google Ads,Desktop
+2806,2024-12-06,Facebook Ads,Desktop
+2807,2024-05-07,Google Ads,Mobile
+2808,2024-01-16,Referral,Desktop
+2809,2024-02-28,Organic,Mobile
+2810,2024-04-24,Google Ads,Mobile
+2811,2024-01-26,Facebook Ads,Mobile
+2812,2024-04-02,Referral,Mobile
+2813,2024-04-08,Organic,Desktop
+2814,2024-01-16,Facebook Ads,Mobile
+2815,2024-03-15,Facebook Ads,Desktop
+2816,2024-05-12,Facebook Ads,Desktop
+2817,2024-03-03,Facebook Ads,Desktop
+2818,2024-01-02,Organic,Mobile
+2819,2024-01-01,Referral,Desktop
+2820,2024-02-09,Google Ads,Mobile
+2821,2024-08-22,Organic,Mobile
+2822,2024-01-24,Google Ads,Desktop
+2823,2024-03-31,Organic,Mobile
+2824,2024-01-23,Organic,Mobile
+2825,2024-02-04,Facebook Ads,Desktop
+2826,2024-06-18,Google Ads,Mobile
+2827,2024-04-27,Organic,Desktop
+2828,2024-01-10,Facebook Ads,Mobile
+2829,2024-02-20,Google Ads,Mobile
+2830,2024-01-03,Google Ads,Mobile
+2831,2024-02-29,Referral,Mobile
+2832,2024-04-07,Google Ads,Mobile
+2833,2024-01-12,Organic,Desktop
+2834,2024-01-31,Google Ads,Mobile
+2835,2024-02-15,Organic,Desktop
+2836,2024-08-14,Organic,Mobile
+2837,2025-03-25,Referral,Mobile
+2838,2024-01-05,Google Ads,Desktop
+2839,2024-05-08,Organic,Desktop
+2840,2024-02-11,Organic,Mobile
+2841,2024-02-14,Google Ads,Desktop
+2842,2024-05-06,Facebook Ads,Desktop
+2843,2024-08-13,Facebook Ads,Mobile
+2844,2024-09-28,Facebook Ads,Desktop
+2845,2024-03-18,Referral,Mobile
+2846,2024-02-09,Facebook Ads,Desktop
+2847,2024-05-19,Facebook Ads,Desktop
+2848,2024-01-27,Organic,Desktop
+2849,2024-03-15,Google Ads,Mobile
+2850,2024-02-09,Google Ads,Mobile
+2851,2024-04-06,Facebook Ads,Desktop
+2852,2024-01-25,Referral,Mobile
+2853,2024-01-20,Referral,Mobile
+2854,2024-08-13,Referral,Desktop
+2855,2024-01-10,Google Ads,Mobile
+2856,2024-03-04,Organic,Mobile
+2857,2024-01-23,Facebook Ads,Mobile
+2858,2024-01-04,Facebook Ads,Mobile
+2859,2024-01-04,Facebook Ads,Desktop
+2860,2024-01-18,Organic,Desktop
+2861,2024-06-30,Google Ads,Mobile
+2862,2024-01-30,Google Ads,Desktop
+2863,2024-09-27,Facebook Ads,Desktop
+2864,2024-03-19,Google Ads,Desktop
+2865,2024-02-21,Organic,Mobile
+2866,2024-03-19,Google Ads,Desktop
+2867,2024-03-06,Organic,Mobile
+2868,2024-05-07,Facebook Ads,Desktop
+2869,2024-01-30,Organic,Desktop
+2870,2024-02-09,Organic,Mobile
+2871,2024-07-21,Facebook Ads,Desktop
+2872,2024-09-20,Facebook Ads,Mobile
+2873,2024-07-19,Organic,Desktop
+2874,2024-02-18,Organic,Mobile
+2875,2024-05-16,Google Ads,Desktop
+2876,2024-02-28,Facebook Ads,Mobile
+2877,2024-03-02,Referral,Mobile
+2878,2024-01-21,Organic,Mobile
+2879,2024-03-21,Google Ads,Mobile
+2880,2024-01-19,Google Ads,Mobile
+2881,2024-02-06,Facebook Ads,Desktop
+2882,2024-06-22,Organic,Mobile
+2883,2024-01-21,Google Ads,Mobile
+2884,2024-01-07,Referral,Mobile
+2885,2024-01-07,Google Ads,Desktop
+2886,2024-09-11,Google Ads,Desktop
+2887,2024-03-04,Organic,Desktop
+2888,2024-02-17,Referral,Desktop
+2889,2024-05-29,Organic,Mobile
+2890,2024-06-11,Google Ads,Mobile
+2891,2024-02-06,Organic,Mobile
+2892,2024-04-16,Organic,Desktop
+2893,2024-05-12,Google Ads,Desktop
+2894,2024-04-05,Facebook Ads,Mobile
+2895,2024-01-15,Google Ads,Mobile
+2896,2024-07-06,Facebook Ads,Mobile
+2897,2024-03-10,Referral,Mobile
+2898,2024-01-30,Google Ads,Desktop
+2899,2024-02-19,Referral,Mobile
+2900,2024-01-04,Google Ads,Desktop
+2901,2024-01-13,Organic,Mobile
+2902,2024-05-10,Google Ads,Desktop
+2903,2024-01-01,Facebook Ads,Desktop
+2904,2024-02-18,Google Ads,Desktop
+2905,2024-03-07,Facebook Ads,Desktop
+2906,2024-01-06,Organic,Desktop
+2907,2024-11-21,Google Ads,Desktop
+2908,2024-01-24,Organic,Desktop
+2909,2024-02-02,Facebook Ads,Desktop
+2910,2024-02-02,Facebook Ads,Desktop
+2911,2024-01-24,Google Ads,Desktop
+2912,2024-01-01,Referral,Desktop
+2913,2024-04-27,Organic,Desktop
+2914,2024-11-02,Google Ads,Mobile
+2915,2024-01-23,Google Ads,Mobile
+2916,2024-04-07,Facebook Ads,Mobile
+2917,2024-05-01,Referral,Mobile
+2918,2024-06-18,Organic,Desktop
+2919,2024-02-19,Facebook Ads,Mobile
+2920,2024-02-02,Organic,Desktop
+2921,2024-02-05,Facebook Ads,Mobile
+2922,2024-04-22,Referral,Mobile
+2923,2024-06-01,Facebook Ads,Desktop
+2924,2024-01-19,Organic,Desktop
+2925,2024-02-11,Facebook Ads,Mobile
+2926,2024-07-27,Organic,Desktop
+2927,2024-05-27,Organic,Desktop
+2928,2025-01-12,Organic,Mobile
+2929,2024-05-06,Organic,Mobile
+2930,2024-02-14,Referral,Desktop
+2931,2024-03-21,Facebook Ads,Mobile
+2932,2024-04-07,Google Ads,Mobile
+2933,2024-01-08,Facebook Ads,Mobile
+2934,2024-03-11,Referral,Desktop
+2935,2024-04-21,Google Ads,Desktop
+2936,2024-01-17,Organic,Desktop
+2937,2024-05-16,Organic,Mobile
+2938,2024-03-19,Facebook Ads,Desktop
+2939,2024-09-30,Facebook Ads,Mobile
+2940,2024-01-04,Facebook Ads,Mobile
+2941,2024-01-28,Google Ads,Mobile
+2942,2024-03-23,Facebook Ads,Mobile
+2943,2024-02-01,Facebook Ads,Desktop
+2944,2024-04-22,Referral,Desktop
+2945,2024-05-08,Referral,Mobile
+2946,2024-01-10,Google Ads,Desktop
+2947,2024-03-05,Google Ads,Desktop
+2948,2024-03-04,Facebook Ads,Desktop
+2949,2024-02-11,Organic,Mobile
+2950,2024-08-31,Organic,Desktop
+2951,2024-06-07,Facebook Ads,Mobile
+2952,2024-04-17,Facebook Ads,Desktop
+2953,2024-04-22,Organic,Mobile
+2954,2024-02-25,Organic,Desktop
+2955,2024-08-16,Facebook Ads,Mobile
+2956,2024-04-16,Organic,Mobile
+2957,2024-04-27,Google Ads,Desktop
+2958,2024-06-27,Google Ads,Desktop
+2959,2024-01-29,Organic,Desktop
+2960,2024-05-28,Organic,Desktop
+2961,2024-01-20,Google Ads,Mobile
+2962,2024-02-08,Referral,Mobile
+2963,2024-02-06,Google Ads,Mobile
+2964,2024-12-11,Organic,Mobile
+2965,2024-06-23,Google Ads,Desktop
+2966,2024-04-18,Referral,Desktop
+2967,2024-04-26,Referral,Desktop
+2968,2024-03-15,Facebook Ads,Desktop
+2969,2024-09-21,Referral,Desktop
+2970,2024-03-02,Organic,Mobile
+2971,2024-02-13,Organic,Mobile
+2972,2024-01-17,Facebook Ads,Desktop
+2973,2024-05-18,Organic,Mobile
+2974,2024-04-29,Referral,Mobile
+2975,2024-02-13,Facebook Ads,Mobile
+2976,2024-01-03,Referral,Desktop
+2977,2024-06-13,Facebook Ads,Mobile
+2978,2024-01-02,Facebook Ads,Desktop
+2979,2024-04-19,Google Ads,Desktop
+2980,2024-11-12,Organic,Mobile
+2981,2024-02-21,Organic,Desktop
+2982,2024-01-25,Facebook Ads,Desktop
+2983,2024-04-19,Referral,Desktop
+2984,2024-06-01,Facebook Ads,Desktop
+2985,2024-03-12,Facebook Ads,Mobile
+2986,2024-11-03,Facebook Ads,Desktop
+2987,2024-01-05,Organic,Mobile
+2988,2024-03-04,Referral,Desktop
+2989,2024-04-24,Organic,Desktop
+2990,2024-06-27,Organic,Desktop
+2991,2024-01-18,Facebook Ads,Mobile
+2992,2024-05-24,Google Ads,Mobile
+2993,2024-03-13,Google Ads,Mobile
+2994,2024-02-15,Google Ads,Mobile
+2995,2024-01-13,Facebook Ads,Mobile
+2996,2024-06-29,Organic,Mobile
+2997,2024-01-16,Google Ads,Mobile
+2998,2024-02-03,Organic,Desktop
+2999,2024-01-31,Google Ads,Mobile
+3000,2024-07-03,Facebook Ads,Desktop
