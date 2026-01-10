@@ -1,73 +1,75 @@
-# saas-growth-funnel-analysis-
-SaaS growth analytics project analyzing funnel, activation, retention, churn, and marketing performance using SQL and Power BI.
 # SaaS Growth Funnel & Retention Analysis
 
 ## 📌 Project Overview
-This project analyzes user behavior in a SaaS platform to understand where users drop off in the onboarding funnel, what drives activation, and what factors contribute to paid user churn.
+This project analyzes growth performance for a SaaS platform by evaluating the onboarding funnel, user activation, paid conversions, churn behavior, and marketing efficiency across acquisition channels.
 
-The goal is to provide data-driven recommendations to improve:
-- User activation
-- Retention
-- Revenue growth
+The goal is to identify friction points in the user journey and recommend data-driven strategies to improve activation, retention, and revenue growth.
 
 ---
 
-## 📊 Business Questions
+## 📊 Dashboard Preview
+
+📄 Power BI Dashboard (PDF):  
+👉 See dashboard in `/dashboard/saas saas dashboard.pdf`
+
+*(Screenshots will be added for quick preview)*
+
+---
+
+## ❓ Business Questions
 - Where do users drop off after signup?
 - What is the activation rate (first publish)?
 - What percentage of paid users churn?
-- Which marketing channels deliver the lowest cost per acquisition (CAC)?
+- Which acquisition channels provide the lowest CAC?
 
 ---
 
-## 🗂 Datasets Used
-- `saas_users.csv` – user signup and acquisition data
-- `saas_events.csv` – product usage events
-- `saas_subscriptions.csv` – paid plans and churn data
-- `marketing_spend.csv` – marketing cost by channel
+## 🗂 Data Used
+- `saas_users.csv` — user signup & acquisition data
+- `saas_events.csv` — product usage events
+- `saas_subscriptions.csv` — paid plans & churn
+- `marketing_spend.csv` — ad spend by channel
 
 ---
 
-## 🛠 Tools Used
-- SQL (PostgreSQL/MySQL)
-- Power BI
-- Microsoft Excel
-
----
-
-## 📈 Analysis Performed
-- Funnel analysis: Signup → Editor Open → First Publish → First Subscriber
-- Activation rate calculation
-- Paid churn analysis
-- Marketing CAC analysis
-- Segmentation by device and acquisition channel
+## 🛠 Tools & Skills
+- Power BI (dashboards & KPIs)
+- SQL (funnel, churn, CAC analysis)
+- Data modeling & relationships
+- Business insight generation
 
 ---
 
 ## 🔍 Key Insights
-- The largest drop-off occurs before the first newsletter is published.
-- Mobile users activate at lower rates than desktop users.
-- Paid churn is highest after the first billing cycle.
-- Organic and referral channels provide the lowest CAC.
+- Largest drop-off occurs before first publish, indicating onboarding friction.
+- Approximately half of signups reach activation.
+- Early-stage churn is significant after the first billing cycle.
+- Organic and referral channels show lower CAC than paid ads.
 
 ---
 
 ## ✅ Recommendations
-- Improve mobile onboarding UX.
-- Add onboarding checklist to guide first-time users.
-- Implement early engagement email nudges.
-- Shift marketing budget toward high-ROI channels.
+- Improve onboarding flow with guided walkthroughs.
+- Add publishing checklists and starter templates.
+- Proactively engage new paid users in the first 30 days.
+- Shift budget toward high-ROI acquisition channels.
 
 ---
 
-## 📎 Deliverables
-- Power BI dashboard (screenshots in /dashboard folder)
-- SQL scripts in `/sql` folder
-- Executive summary report
+## 📁 Repository Structure
+
 
 ---
 
-## 📬 Contact
+## 📄 Executive Summary
+Detailed business analysis and recommendations:  
+👉 See `/report/executive_summary.md.`
+
+---
+
+## 👤 Author
 **Kiakpugi Nwigbo**  
+Data Analyst | Growth Analytics  
 Email: joynwigbo@gmail.com  
 LinkedIn: www.linkedin.com/in/kiakpugi-nwigbo-tuador
+
