@@ -1,0 +1,69 @@
+# Executive Summary — SaaS Growth Performance Analysis
+
+## 📌 Business Objective
+The objective of this analysis is to evaluate the growth performance of a SaaS platform by analyzing the user onboarding funnel, activation behavior, paid conversions, churn trends, and marketing efficiency across acquisition channels.
+
+The goal is to identify friction points in the customer journey and recommend data-driven strategies to improve activation, retention, and revenue growth.
+
+---
+
+## 📊 Data Sources
+The analysis was conducted using the following datasets:
+- User signup and acquisition data
+- Product usage events (editor opened, first publish, first subscriber)
+- Subscription and revenue records
+- Marketing spend by acquisition channel
+
+---
+
+## 🔍 Key Findings
+
+### 1. Funnel Drop-Off During Onboarding
+The largest user drop-off occurs between signup and first newsletter publication. While many users open the editor, a significant percentage fail to complete their first publish action, indicating onboarding friction or usability challenges.
+
+### 2. Activation Rate
+Approximately half of total signups successfully reach activation (first publish), suggesting an opportunity for onboarding optimization and early engagement interventions.
+
+### 3. Paid User Churn
+Churn is highest within the first few months after subscription, indicating that early customer success and value realization are critical to retention.
+
+### 4. Marketing Efficiency
+Organic and referral channels show lower Cost per Acquisition (CAC) compared to paid advertising channels, making them more sustainable growth drivers.
+
+---
+
+## ✅ Recommendations
+
+### Improve Onboarding Experience
+- Introduce guided walkthroughs and tooltips within the editor.
+- Add onboarding checklists to guide new users toward first publish.
+
+### Increase Early Engagement
+- Trigger automated emails and in-app prompts encouraging first publication.
+- Provide content templates for first-time creators.
+
+### Reduce Early Churn
+- Implement early success monitoring for new paid users.
+- Proactively engage users showing low activity within first 30 days.
+
+### Optimize Marketing Spend
+- Increase investment in organic content and referral programs.
+- Improve targeting and creatives for paid campaigns to attract high-intent creators.
+
+---
+
+## 📈 Business Impact
+Implementing these recommendations is expected to:
+- Increase activation rates
+- Reduce early-stage churn
+- Improve the lifetime value (LTV) of customers
+- Optimize customer acquisition cost (CAC)
+
+This supports sustainable long-term growth and improved monetization of the creator platform.
+
+---
+
+## 🛠 Tools Used
+- Power BI for dashboard visualization
+- SQL for data querying and aggregation
+- Excel for data validation and preprocessing
